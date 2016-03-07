@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="250dp"
+    android:background="#468499"
+    android:weightSum="1">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/mytext"
+        android:text="Fragment one"
+        android:gravity="center"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:layout_weight="0.20" />
+    <EditText
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/myedit"
+        android:hint="Enter String"
+        android:layout_weight="0.16"
+        android:textStyle="bold"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/mybutton"
+        android:text="Send"
+        android:gravity="center"
+        android:layout_weight="0.07"
+        android:textStyle="bold"/>
+
+</LinearLayout>
