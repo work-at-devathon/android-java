@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Linear</string>
+    <string name="action_settings">Settings</string>
+    <string name="really_long_string">Constructing View Layouts (How to layout views)
+Defining Views and their Attributes (Gravity, Margin, Padding, etc)
+Working with the TextView (Properties, Drawables, Custom Fonts)
+Working with the EditText (Properties)
+Working with the ImageView (Drawables, Size and Scale, Density, Raw Bitmaps)
+Working with Input Views (Spinner, RatingBar, etc)
+Working with the Soft Keyboard
+Working with the WebView
+Working with the ScrollView
+Designing and Styling Views
+
+Drawables (and how to polish UI views)
+Styles and Themes (Consolidating view styles)
+Animations (Animating views, layouts, activities and more)
+Polishing a UI Tips and Tools (Links to key resources)
+Android Design Guidelines (Overview of Android design standards)
+Styling UI Screens FAQ (Answers to common questions around building screens)
+Cloning a Login Screen Layout Guide (Creating attractive UIs, QandA)
+Developing Custom Themes (Integrating drawables, styles and themes)
+Material Design Primer (Lollipop Design Overview)
+Dynamic Color using Palettes (Adaptive colors, Android 5.0)
+Ripple Animation (Android 5.0)
+Shared Element Activity Transition (Android 5.0)
+Circular Reveal Animation (Android 5.0)
+Design Support Library (Material Design Library)</string>
+</resources>
