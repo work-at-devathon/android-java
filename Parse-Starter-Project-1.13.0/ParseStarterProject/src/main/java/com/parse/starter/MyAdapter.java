@@ -14,19 +14,27 @@ import com.parse.ParseObject;
 
 import java.util.ArrayList;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
+import java.util.Set;
 
-public class MyAdapter extends  BaseExpandableListAdapter implements Filterable{
+public class MyAdapter extends BaseExpandableListAdapter implements Filterable {
 
-    List<String> parent=new ArrayList<>();
-    HashMap<String,ArrayList<ParseObject>> child;
+
+    HashMap<String, ArrayList<ParseObject>> child;
     Context context;
     CutsomFilter c = new CutsomFilter();
-    MyAdapter(Context context,HashMap<String,ArrayList<ParseObject>> child)
-    {
-        this.context=context;
+    protected List<String> countries;
+
+    MyAdapter(Context context, HashMap<String, ArrayList<ParseObject>> child) {
+        this.context = context;
         this.child = child;
+        countries = new ArrayList<>();
+        countries.addAll(child.keySet());
+
+
     }
+
     @Override
     public int getGroupCount() {
 
@@ -35,17 +43,20 @@ public class MyAdapter extends  BaseExpandableListAdapter implements Filterable{
 
     @Override
     public int getChildrenCount(int i) {
-        return child.get(parent.get(i)).size();
+        String key = countries.get(i);
+        return child.get(key).size();
     }
 
     @Override
     public Object getGroup(int i) {
-        return parent.get(i);
+        String key = countries.get(i);
+        return key;
     }
 
     @Override
     public Object getChild(int i, int i1) {
-        return child.get(parent.get(i)).get(i1);
+
+        return child.get(countries.get(i)).get(i1);
     }
 
     @Override
@@ -65,13 +76,12 @@ public class MyAdapter extends  BaseExpandableListAdapter implements Filterable{
 
     @Override
     public View getGroupView(int i, boolean b, View view, ViewGroup viewGroup) {
-        String title=(String)this.getGroup(i);
-        if (view==null)
-        {
-            LayoutInflater layoutInflater=(LayoutInflater)this.context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-            view=layoutInflater.inflate(R.layout.parent,null);
+        String title = (String) this.getGroup(i);
+        if (view == null) {
+            LayoutInflater layoutInflater = (LayoutInflater) this.context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+            view = layoutInflater.inflate(R.layout.parent, null);
         }
-        TextView textView=(TextView)view.findViewById(R.id.text);
+        TextView textView = (TextView) view.findViewById(R.id.text);
         textView.setTypeface(null, Typeface.BOLD);
         textView.setText(title);
         return view;
@@ -79,14 +89,16 @@ public class MyAdapter extends  BaseExpandableListAdapter implements Filterable{
 
     @Override
     public View getChildView(int i, int i1, boolean b, View view, ViewGroup viewGroup) {
-        String title = (String) this.getChild(i, i1);
-        if (view == null)
-        {
-            LayoutInflater layoutInflater=(LayoutInflater)this.context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
-            view=layoutInflater.inflate(R.layout.child,null);
+        ParseObject parseObject = (ParseObject) this.getChild(i, i1);
+        String title = (String) parseObject.get("city");
+
+
+        if (view == null) {
+            LayoutInflater layoutInflater = (LayoutInflater) this.context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
+            view = layoutInflater.inflate(R.layout.child, null);
 
         }
-        TextView textView=(TextView)view.findViewById(R.id.text1);
+        TextView textView = (TextView) view.findViewById(R.id.text1);
         textView.setText(title);
         return view;
     }
@@ -101,20 +113,51 @@ public class MyAdapter extends  BaseExpandableListAdapter implements Filterable{
         return c;
     }
 
-    class CutsomFilter extends Filter
-    {
+    class CutsomFilter extends Filter {
         @Override
         protected FilterResults performFiltering(CharSequence charSequence) {
 
             String filterString = charSequence.toString().toLowerCase();
 
             FilterResults results = new FilterResults();
-            return null;
+            final List<String> list = new ArrayList<>();
+            ArrayList<ParseObject> a = new ArrayList<>();
+            Set keys = child.keySet();
+            Iterator itr = keys.iterator();
+            String key;
+            while (itr.hasNext()) {
+                key = (String) itr.next();
+                a.addAll(child.get(key));
+            }
+            for (ParseObject p : a) {
+                String s = (String) p.get("city");
+                list.add(s);
+            }
+
+            int count = list.size();
+            final ArrayList<String> nlist = new ArrayList<String>(count);
+
+            String filterableString;
+
+            for (int i = 0; i < count; i++) {
+                filterableString = list.get(i);
+                if (filterableString.toLowerCase().contains(filterString)) {
+                    nlist.add(filterableString);
+                }
+            }
+
+            results.values = nlist;
+            results.count = nlist.size();
+            return results;
         }
 
+        @SuppressWarnings("unchecked")
         @Override
         protected void publishResults(CharSequence charSequence, FilterResults filterResults) {
 
+            List<String> l = new ArrayList<>();
+            l = (ArrayList<String>) filterResults.values;
+           // notifyDataSetChanged();
         }
     }
 }

@@ -8,6 +8,7 @@
         android:layout_height="wrap_content"
         android:id="@+id/text"
         android:gravity="center_vertical"
+        android:textSize="30dp"
 
         />
 </LinearLayout>
