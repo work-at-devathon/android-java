@@ -11,8 +11,6 @@ package com.parse.starter;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.text.Editable;
-import android.text.TextWatcher;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -20,7 +18,6 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ExpandableListView;
 import android.widget.SearchView;
-import android.widget.TextView;
 import android.widget.Toast;
 
 import com.parse.FindCallback;
@@ -78,46 +75,44 @@ public class MainActivity extends AppCompatActivity {
 
 
         });
-        TextWatcher t = new TextWatcher() {
+        sv.setOnQueryTextListener(new SearchView.OnQueryTextListener() {
             @Override
-            public void beforeTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-
+            public boolean onQueryTextSubmit(String s) {
+                return false;
             }
 
             @Override
-            public void onTextChanged(CharSequence charSequence, int i, int i1, int i2) {
-
-
-                myAdapter.getFilter().filter(charSequence.toString());
+            public boolean onQueryTextChange(String s) {
+//                myAdapter.getFilter().filter(s);
+                return false;
             }
-
-            @Override
-            public void afterTextChanged(Editable editable) {
-
-            }
-        };
-
+        });
         expandableListView.setOnItemClickListener(new AdapterView.OnItemClickListener() {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 //get object id
-                String s = ((TextView) view).getText().toString();
-                ParseObject parseObject = new ParseObject("cities");
-                String id = parseObject.getObjectId();
-                Toast.makeText(MainActivity.this, id, Toast.LENGTH_SHORT).show();
-                Intent intent = new Intent(MainActivity.this, MyActivity.class);
-                intent.putExtra("key", id);
-                startActivity(intent);
+               // String s = ((TextView) view).getText().toString();
+               // ParseObject parseObject = new ParseObject("cities");
+               // String id = parseObject.getObjectId();
+               // Toast.makeText(MainActivity.this, id, Toast.LENGTH_SHORT).show();
+               // Intent intent = new Intent(MainActivity.this, MyActivity.class);
+              //  intent.putExtra("key", id);
+               // startActivity(intent);
             }
         });
         expandableListView.setOnChildClickListener(new ExpandableListView.OnChildClickListener() {
             @Override
             public boolean onChildClick(ExpandableListView expandableListView, View view, int i, int i1, long l) {
 
-                Long s=(Long)myAdapter.getChildId(i, i1);
-                Toast.makeText(getApplicationContext(),"gfd", Toast.LENGTH_SHORT).show();
+
+                ParseObject s=(ParseObject)myAdapter.getChild(i, i1);
+                //ParseObject p=new ParseObject("cities");
+                String str=(String)s.getObjectId();
+
+
+                Toast.makeText(getApplicationContext(),str, Toast.LENGTH_SHORT).show();
                 Intent intent = new Intent(MainActivity.this, MyActivity.class);
-                intent.putExtra("key",s);
+                intent.putExtra("key",str);
                 startActivity(intent);
                 return true;
 

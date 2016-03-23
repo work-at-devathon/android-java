@@ -97,7 +97,7 @@ public class MyAdapter extends BaseExpandableListAdapter implements Filterable {
             LayoutInflater layoutInflater = (LayoutInflater) this.context.getSystemService(Context.LAYOUT_INFLATER_SERVICE);
             view = layoutInflater.inflate(R.layout.child, null);
 
-        }
+        }//view.setTag();
         TextView textView = (TextView) view.findViewById(R.id.text1);
         textView.setText(title);
         return view;
@@ -145,9 +145,34 @@ public class MyAdapter extends BaseExpandableListAdapter implements Filterable {
                     nlist.add(filterableString);
                 }
             }
+            HashMap<String ,String> hm=new HashMap<>();
 
-            results.values = nlist;
-            results.count = nlist.size();
+           // for (String s:nlist)
+           // {for (Object o : child.keySet()) {
+              //  if (child.get(o).equals(s)) {
+                //  String s1=child.get(o).toString();
+               //     hm.put(s1,s);
+                //}
+           // }}
+            Iterator iterator=keys.iterator();
+            String res;ArrayList<ParseObject> a1=new ArrayList<>();ArrayList<String>r=new ArrayList<>();
+           for(String s:nlist) {
+               while (iterator.hasNext()) {
+                   res = (String) iterator.next();
+                   a1.addAll(child.get(res));
+                   for (ParseObject p : a1) {
+                       String s2 = (String) p.get("city");
+                       r.add(s2);
+                       if (r.contains(s)) {
+                           hm.put(res, s);
+                           a1.clear();
+                       }
+                   }
+               }
+           }
+
+            results.values = hm;
+            results.count = hm.size();
             return results;
         }
 
@@ -155,9 +180,8 @@ public class MyAdapter extends BaseExpandableListAdapter implements Filterable {
         @Override
         protected void publishResults(CharSequence charSequence, FilterResults filterResults) {
 
-            List<String> l = new ArrayList<>();
-            l = (ArrayList<String>) filterResults.values;
-           // notifyDataSetChanged();
+            List<String> l = (ArrayList<String>) filterResults.values;
+            notifyDataSetChanged();
         }
     }
 }
