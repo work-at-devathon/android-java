@@ -13,20 +13,20 @@ import android.widget.TextView;
 import com.parse.ParseObject;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Set;
+import java.util.TreeMap;
 
 public class MyAdapter extends BaseExpandableListAdapter implements Filterable {
 
 
-    HashMap<String, ArrayList<ParseObject>> child;
+    TreeMap<String, ArrayList<ParseObject>> child;
     Context context;
     CutsomFilter c = new CutsomFilter();
     protected List<String> countries;
 
-    MyAdapter(Context context, HashMap<String, ArrayList<ParseObject>> child) {
+    MyAdapter(Context context, TreeMap<String, ArrayList<ParseObject>> child) {
         this.context = context;
         this.child = child;
         countries = new ArrayList<>();
@@ -145,7 +145,7 @@ public class MyAdapter extends BaseExpandableListAdapter implements Filterable {
                     nlist.add(filterableString);
                 }
             }
-            HashMap<String ,String> hm=new HashMap<>();
+            TreeMap<String ,String> hm=new TreeMap<>();
 
            // for (String s:nlist)
            // {for (Object o : child.keySet()) {

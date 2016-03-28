@@ -2,46 +2,11 @@
 <items version="2" >
 
     <item
-        jar="/home/crypsis/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jar="/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/cardview-v7/23.2.0/jars/classes.jar"
         jumboMode="false"
         revision="23.0.1"
-        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
-        <dex dex="/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0-ac9eddc492d587ca07b538eb92da7d320b25338f.jar" />
-    </item>
-    <item
-        jar="/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="1ee588ff2c4daf7b97c1cbf922a6c7f027285c2f">
-        <dex dex="/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-52b0541b61f144ed138a3de385f388b2850787f1.jar" />
-    </item>
-    <item
-        jar="/home/crypsis/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.0/support-annotations-22.2.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="66b42a1f3eb7676070b7ef7f14b603483aecbee1">
-        <dex dex="/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/support-annotations-22.2.0-4625a54797a72724f9975afdfaa0913f7d35a9e8.jar" />
-    </item>
-    <item
-        jar="/home/crypsis/.gradle/caches/modules-2/files-2.1/com.parse/parse-android/1.13.0/58a7d54b6a4f28be11f0cecec93097eddf473e6f/parse-android-1.13.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
-        <dex dex="/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/parse-android-1.13.0-bd52635ede35a46efb7eb770b3d72130938aa700.jar" />
-    </item>
-    <item
-        jar="/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="73753982da6bde518f3a4c6b372749981d14d1a0">
-        <dex dex="/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-fd48b119079d7783463ae55a6dae06562cc13ab8.jar" />
-    </item>
-    <item
-        jar="/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.0/jars/libs/internal_impl-22.2.0.jar"
-        jumboMode="false"
-        revision="23.0.1"
-        sha1="57f2ab85c164ff1676ec64dee787981c046fab79">
-        <dex dex="/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/internal_impl-22.2.0-f811cae9bdabe1c0a64a1232b6095a5268817d3b.jar" />
+        sha1="bc599eb9531da9d18bc58ec4eb0b1a1d895f6839">
+        <dex dex="/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/pre-dexed/debug/classes-8fdc9e4afc523dfec8f113a5cbb328195d2c7a17.jar" />
     </item>
 
 </items>

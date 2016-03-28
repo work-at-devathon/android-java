@@ -18,15 +18,14 @@ import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ExpandableListView;
 import android.widget.SearchView;
-import android.widget.Toast;
 
 import com.parse.FindCallback;
 import com.parse.ParseObject;
 import com.parse.ParseQuery;
 
 import java.util.ArrayList;
-import java.util.HashMap;
 import java.util.List;
+import java.util.TreeMap;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -34,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
     SearchView sv;
    MyAdapter myAdapter;
 
-    HashMap<String, ArrayList<ParseObject>> result = new HashMap<String, ArrayList<ParseObject>>();
+    TreeMap<String, ArrayList<ParseObject>> result = new TreeMap<String, ArrayList<ParseObject>>();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -110,7 +109,7 @@ public class MainActivity extends AppCompatActivity {
                 String str=(String)s.getObjectId();
 
 
-                Toast.makeText(getApplicationContext(),str, Toast.LENGTH_SHORT).show();
+
                 Intent intent = new Intent(MainActivity.this, MyActivity.class);
                 intent.putExtra("key",str);
                 startActivity(intent);

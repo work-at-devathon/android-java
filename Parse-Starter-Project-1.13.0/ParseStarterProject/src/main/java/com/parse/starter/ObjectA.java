@@ -23,7 +23,7 @@ public class ObjectA implements Parcelable{
     @Override
     public void writeToParcel(Parcel parcel, int i) {
 
-        parcel.writeString(object);
+        //parcel.writeString(object);
     }
     public void setvalue(Object a)
     {
