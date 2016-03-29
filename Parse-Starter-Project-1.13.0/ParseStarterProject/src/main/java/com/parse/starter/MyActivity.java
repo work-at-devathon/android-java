@@ -42,7 +42,7 @@ public class MyActivity extends AppCompatActivity {
                         HotelInfo hi = new HotelInfo();
                         hi.hotelname = (String) parseObject.get("name");
                         hi.address = (String) parseObject.get("address");
-                        // hi.rating = (int) parseObject.get("rating");
+                         hi.rating =(String)parseObject.get("rating").toString();
                         hi.imageUri = (String) parseObject.get("image");
                         hinfo.add(hi);
                         Log.d("hotels", "Retrieved ");

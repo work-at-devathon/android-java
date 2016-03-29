@@ -45,6 +45,7 @@ public class MainActivity extends AppCompatActivity {
         // ParseAnalytics.trackAppOpenedInBackground(getIntent());
 
         ParseQuery<ParseObject> query = ParseQuery.getQuery("Cities");
+        query.orderByAscending("city");
         query.findInBackground(new FindCallback<ParseObject>() {
             @Override
             public void done(List<ParseObject> objects, com.parse.ParseException e) {
@@ -60,6 +61,7 @@ public class MainActivity extends AppCompatActivity {
                             Log.d("map", "loaded");
                         } else {
                             temp.add(obj);
+
                         }
                     }
 
@@ -82,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public boolean onQueryTextChange(String s) {
-//                myAdapter.getFilter().filter(s);
+                myAdapter.getFilter().filter(s);
                 return false;
             }
         });

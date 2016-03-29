@@ -40,7 +40,7 @@ public class HotelAdapter extends RecyclerView.Adapter<HotelAdapter.HotelViewHol
         HotelInfo hotelInfo = hotelInfoList.get(position);
         holder.name.setText(hotelInfo.hotelname);
         holder.address.setText(hotelInfo.address);
-        holder.rating.setText(hotelInfo.rating+"");
+        holder.rating.setText("Rating:"+ hotelInfo.rating);
         Picasso.with(context).setIndicatorsEnabled(true);
          Picasso.with(context).load(hotelInfo.imageUri).resize(275,200).into(holder.image, new Callback() {
              @Override
