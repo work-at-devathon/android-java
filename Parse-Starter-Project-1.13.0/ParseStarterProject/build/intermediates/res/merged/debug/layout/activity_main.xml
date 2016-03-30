@@ -31,4 +31,3 @@
         android:layout_centerHorizontal="true"
         android:layout_below="@+id/searchView" />
 </RelativeLayout>
-<!-- From: file:/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/src/main/res/layout/activity_main.xml -->
