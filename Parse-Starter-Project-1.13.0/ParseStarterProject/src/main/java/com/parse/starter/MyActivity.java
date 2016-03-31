@@ -2,8 +2,6 @@ package com.parse.starter;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.support.v7.widget.LinearLayoutManager;
-import android.support.v7.widget.RecyclerView;
 import android.util.Log;
 import android.widget.Toast;
 
@@ -17,22 +15,24 @@ import java.util.List;
 
 public class MyActivity extends AppCompatActivity {
     MyCardContainer cardContainer;
+    MyCardModel m;
     List<HotelInfo> hinfo = new ArrayList<>();
     List<MyCardModel> hinfo1 = new ArrayList<>();
     HotelAdapter hotelAdapter;
     MyCardAdapter myCardAdapter;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_my);
 
-        RecyclerView recyclerView = (RecyclerView) findViewById(R.id.cardList);
-          //cardContainer = (MyCardContainer) findViewById(R.id.layoutview1);
+        //RecyclerView recyclerView = (RecyclerView) findViewById(R.id.cardList);
+        cardContainer = (MyCardContainer) findViewById(R.id.layoutview1);
 
 
         String s = getIntent().getStringExtra("key");
-       // Toast.makeText(this, s, Toast.LENGTH_SHORT).show();
-
+        // Toast.makeText(this, s, Toast.LENGTH_SHORT).show();
+myCardAdapter=new MyCardAdapter(this);
 
         ParseQuery<ParseObject> query = ParseQuery.getQuery("Hotels");
         query.whereEqualTo("cityId", s);
@@ -42,32 +42,37 @@ public class MyActivity extends AppCompatActivity {
 
                 if (e == null) {
                     for (ParseObject parseObject : objects) {
-                        MyCardModel m = new MyCardModel();
+                        m = new MyCardModel();
                         m.hotelname = (String) parseObject.get("name");
                         m.address = (String) parseObject.get("address");
                         m.rating = (String) parseObject.get("rating").toString();
                         m.imageUrl = (String) parseObject.get("image");
-                        hinfo1.add(m);
-                        HotelInfo hi = new HotelInfo();
-                        hi.hotelname = (String) parseObject.get("name");
-                        hi.address = (String) parseObject.get("address");
-                        hi.rating = (String) parseObject.get("rating").toString();
-                        hi.imageUri = (String) parseObject.get("image");
-                        hinfo.add(hi);
+                       // hinfo1.add(m);
+                        myCardAdapter.add(m);
+//                        HotelInfo hi = new HotelInfo();
+//                        hi.hotelname = (String) parseObject.get("name");
+//                        hi.address = (String) parseObject.get("address");
+//                        hi.rating = (String) parseObject.get("rating").toString();
+//                        hi.imageUri = (String) parseObject.get("image");
+//                        hinfo.add(hi);
                         Log.d("hotels", "Retrieved ");
                     }
-                   hotelAdapter.notifyDataSetChanged();
-                    myCardAdapter.notifyDataSetChanged();
+                    //hotelAdapter.notifyDataSetChanged();
+                     myCardAdapter.notifyDataSetChanged();
                 } else {
                     Log.d("Hotels", "Error: " + e.getMessage());
                 }
             }
         });
-        myCardAdapter=new MyCardAdapter(this,hinfo1);
-       hotelAdapter = new HotelAdapter(hinfo);
-        recyclerView.setAdapter(hotelAdapter);
-        recyclerView.setLayoutManager(new LinearLayoutManager(this));
-        MyCardModel myCardModel=new MyCardModel();
+        // myCardAdapter=new MyCardAdapter(this,hinfo1);
+//        hotelAdapter = new HotelAdapter(hinfo);
+//        recyclerView.setAdapter(hotelAdapter);
+//        recyclerView.setLayoutManager(new LinearLayoutManager(this));
+        MyCardModel myCardModel = new MyCardModel();
+        // myCardAdapter.add(m);
+        cardContainer.setAdapter(myCardAdapter);
+        myCardModel.hotelname="abc hotel";
+        myCardModel.address="123";myCardModel.rating="4";myCardModel.imageUrl="url";
         myCardModel.setOnClickListener(new MyCardModel.OnClickListener() {
             @Override
             public void OnClickListener() {
@@ -86,8 +91,6 @@ public class MyActivity extends AppCompatActivity {
             }
         });
 
-       // myCardAdapter.add(myCardModel);
 
-       //cardContainer.setAdapter(myCardAdapter);
     }
 }

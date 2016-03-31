@@ -471,7 +471,7 @@ int id address 0x7f0c0059
 int id alertTitle 0x7f0c0033
 int id always 0x7f0c0019
 int id beginning 0x7f0c0016
-int id btn_sep_1 0x7f0c0062
+int id btn_sep_1 0x7f0c0061
 int id btn_sep_2 0x7f0c0075
 int id buttonPanel 0x7f0c0039
 int id cancel_action 0x7f0c0067
@@ -489,7 +489,7 @@ int id description 0x7f0c0073
 int id dialog 0x7f0c001e
 int id disableHome 0x7f0c000d
 int id disordered 0x7f0c0014
-int id divider_bottom 0x7f0c0061
+int id divider_bottom 0x7f0c0062
 int id divider_title 0x7f0c005f
 int id dropdown 0x7f0c001f
 int id edit_query 0x7f0c0045

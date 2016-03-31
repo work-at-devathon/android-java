@@ -31,7 +31,7 @@ import java.util.TreeMap;
 public class MainActivity extends AppCompatActivity {
     ExpandableListView expandableListView;
     SearchView sv;
-   MyAdapter myAdapter;
+    MyAdapter myAdapter;
 
     TreeMap<String, ArrayList<ParseObject>> result = new TreeMap<String, ArrayList<ParseObject>>();
 
@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public boolean onQueryTextChange(String s) {
-                myAdapter.getFilter().filter(s);
+             myAdapter.getFilter().filter(s);
                 return false;
             }
         });
@@ -92,13 +92,13 @@ public class MainActivity extends AppCompatActivity {
             @Override
             public void onItemClick(AdapterView<?> adapterView, View view, int i, long l) {
                 //get object id
-               // String s = ((TextView) view).getText().toString();
-               // ParseObject parseObject = new ParseObject("cities");
-               // String id = parseObject.getObjectId();
-               // Toast.makeText(MainActivity.this, id, Toast.LENGTH_SHORT).show();
-               // Intent intent = new Intent(MainActivity.this, MyActivity.class);
-              //  intent.putExtra("key", id);
-               // startActivity(intent);
+                // String s = ((TextView) view).getText().toString();
+                // ParseObject parseObject = new ParseObject("cities");
+                // String id = parseObject.getObjectId();
+                // Toast.makeText(MainActivity.this, id, Toast.LENGTH_SHORT).show();
+                // Intent intent = new Intent(MainActivity.this, MyActivity.class);
+                //  intent.putExtra("key", id);
+                // startActivity(intent);
             }
         });
         expandableListView.setOnChildClickListener(new ExpandableListView.OnChildClickListener() {
@@ -106,14 +106,13 @@ public class MainActivity extends AppCompatActivity {
             public boolean onChildClick(ExpandableListView expandableListView, View view, int i, int i1, long l) {
 
 
-                ParseObject s=(ParseObject)myAdapter.getChild(i, i1);
+                ParseObject s = (ParseObject) myAdapter.getChild(i, i1);
                 //ParseObject p=new ParseObject("cities");
-                String str=(String)s.getObjectId();
-
+                String str = (String) s.getObjectId();
 
 
                 Intent intent = new Intent(MainActivity.this, MyActivity.class);
-                intent.putExtra("key",str);
+                intent.putExtra("key", str);
                 startActivity(intent);
                 return true;
 

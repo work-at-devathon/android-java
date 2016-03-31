@@ -91,7 +91,7 @@ public class MyAdapter extends BaseExpandableListAdapter implements Filterable {
     @Override
     public View getChildView(int i, int i1, boolean b, View view, ViewGroup viewGroup) {
         ParseObject parseObject = (ParseObject) this.getChild(i, i1);
-        String title = (String)parseObject.get("city");
+        String title = (String) parseObject.get("city");
 
 
         if (view == null) {
@@ -178,9 +178,9 @@ public class MyAdapter extends BaseExpandableListAdapter implements Filterable {
 //            results.values = hm;
 //            results.count = hm.size();
             TreeMap<String, ArrayList<ParseObject>> t = new TreeMap<String, ArrayList<ParseObject>>();
-            for(ArrayList<ParseObject> obj : child2.values()){
-                for(ParseObject obj2 : obj){
-                    if(obj2.getString("city").toLowerCase().startsWith(charSequence.toString())){
+            for (ArrayList<ParseObject> obj : child2.values()) {
+                for (ParseObject obj2 : obj) {
+                    if (obj2.getString("city").toLowerCase().startsWith(charSequence.toString())) {
                         String s = (String) obj2.getString("country");
                         ArrayList<ParseObject> temp = t.get(s);
                         if (temp == null) {
@@ -205,10 +205,9 @@ public class MyAdapter extends BaseExpandableListAdapter implements Filterable {
         protected void publishResults(CharSequence charSequence, FilterResults filterResults) {
 
 
-
             if (filterResults.count > 0) {
                 Log.println(Log.INFO, "Results", "FOUND");
-                child = (TreeMap<String, ArrayList<ParseObject>> )filterResults.values;
+                child = (TreeMap<String, ArrayList<ParseObject>>) filterResults.values;
                 countries = new ArrayList<>();
                 countries.addAll(child.keySet());
                 notifyDataSetChanged();

@@ -1720,7 +1720,7 @@ containing a value of this type.
         public static final int alertTitle=0x7f0c0033;
         public static final int always=0x7f0c0019;
         public static final int beginning=0x7f0c0016;
-        public static final int btn_sep_1=0x7f0c0062;
+        public static final int btn_sep_1=0x7f0c0061;
         public static final int btn_sep_2=0x7f0c0075;
         public static final int buttonPanel=0x7f0c0039;
         public static final int cancel_action=0x7f0c0067;
@@ -1738,7 +1738,7 @@ containing a value of this type.
         public static final int dialog=0x7f0c001e;
         public static final int disableHome=0x7f0c000d;
         public static final int disordered=0x7f0c0014;
-        public static final int divider_bottom=0x7f0c0061;
+        public static final int divider_bottom=0x7f0c0062;
         public static final int divider_title=0x7f0c005f;
         public static final int dropdown=0x7f0c001f;
         public static final int edit_query=0x7f0c0045;

@@ -8,21 +8,20 @@ public class MyCardModel {
     protected String rating;
     protected String imageUrl;
 
-    public String getHotelName() {
-        return this.hotelname;
-    }
-
-    public String getAddress() {
-        return this.address;
-    }
-    public String getRating() {
-        return this.rating;
-    }
-    public String getImageUrl() { return this.imageUrl;}
+//    public String getHotelName() {
+//        return this.hotelname;
+//    }
+//
+//    public String getAddress() {
+//        return this.address;
+//    }
+//    public String getRating() {
+//        return this.rating;
+//    }
+//    public String getImageUrl() { return this.imageUrl;}
 
     private MyCardModel.OnCardDimissedListener mOnCardDimissedListener;
     private MyCardModel.OnClickListener mOnClickListener;
-
 
 
     public void setOnCardDimissedListener(MyCardModel.OnCardDimissedListener listener) {

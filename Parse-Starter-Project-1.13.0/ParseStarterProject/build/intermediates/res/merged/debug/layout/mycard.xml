@@ -3,7 +3,7 @@
     android:id="@+id/global_container"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="wrap_content"
-    android:layout_height="wrap_content">
+    android:layout_height="410dp">
 
     <TextView
         android:id="@+id/mytitle"
@@ -28,12 +28,13 @@
 
     <ImageView
         android:id="@+id/myimage"
-        android:layout_width="wrap_content"
+        android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:layout_below="@id/divider_title"
         android:layout_alignWithParentIfMissing="true"
         android:scaleType="centerCrop"
-        tools:src="@drawable/picture1"/>
+        tools:src="@drawable/picture1"
+        android:layout_below="@+id/mytitle"
+        android:layout_toEndOf="@+id/btn_sep_1" />
 
     <View
         android:id="@+id/divider_bottom"
@@ -57,7 +58,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_below="@id/image"
-
+        android:textStyle="bold"
         android:background="?android:attr/selectableItemBackground"
         android:padding="10dp"
 
@@ -66,16 +67,17 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:textStyle="bold"
         android:text="Address of hotel"
         android:id="@+id/myaddress"
-        android:layout_below="@+id/divider_bottom"
-        android:layout_toRightOf="@+id/btn_sep_1"
-        android:layout_alignBottom="@+id/btn_sep_1" />
+        android:layout_below="@+id/myimage"
+        android:layout_alignParentStart="true" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Rating"
+        android:textStyle="bold"
         android:id="@+id/myrating"
         android:layout_below="@+id/image"
         android:layout_alignParentRight="true"

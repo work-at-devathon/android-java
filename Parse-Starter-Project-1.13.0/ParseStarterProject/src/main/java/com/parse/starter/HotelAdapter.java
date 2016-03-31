@@ -29,7 +29,7 @@ public class HotelAdapter extends RecyclerView.Adapter<HotelAdapter.HotelViewHol
         View itemView = LayoutInflater.
                 from(parent.getContext()).
                 inflate(R.layout.card_layout, parent, false);
-         context=parent.getContext();
+        context = parent.getContext();
 
         return new HotelViewHolder(itemView);
     }
@@ -40,19 +40,19 @@ public class HotelAdapter extends RecyclerView.Adapter<HotelAdapter.HotelViewHol
         HotelInfo hotelInfo = hotelInfoList.get(position);
         holder.name.setText(hotelInfo.hotelname);
         holder.address.setText(hotelInfo.address);
-        holder.rating.setText("Rating:"+ hotelInfo.rating);
+        holder.rating.setText("Rating:" + hotelInfo.rating);
         Picasso.with(context).setIndicatorsEnabled(true);
-         Picasso.with(context).load(hotelInfo.imageUri).resize(275,200).into(holder.image, new Callback() {
-             @Override
-             public void onSuccess() {
+        Picasso.with(context).load(hotelInfo.imageUri).resize(275, 200).into(holder.image, new Callback() {
+            @Override
+            public void onSuccess() {
 
-             }
+            }
 
-             @Override
-             public void onError() {
+            @Override
+            public void onError() {
 
-             }
-         });
+            }
+        });
 
     }
 
