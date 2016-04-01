@@ -24,6 +24,7 @@ public class MyActivity extends AppCompatActivity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
+
         setContentView(R.layout.activity_my);
 
         //RecyclerView recyclerView = (RecyclerView) findViewById(R.id.cardList);
@@ -70,9 +71,11 @@ myCardAdapter=new MyCardAdapter(this);
 //        recyclerView.setLayoutManager(new LinearLayoutManager(this));
         MyCardModel myCardModel = new MyCardModel();
         // myCardAdapter.add(m);
-        cardContainer.setAdapter(myCardAdapter);
-        myCardModel.hotelname="abc hotel";
-        myCardModel.address="123";myCardModel.rating="4";myCardModel.imageUrl="url";
+
+        //myCardModel.hotelname="abc hotel";
+       // myCardModel.address="123";myCardModel.rating="4";myCardModel.imageUrl="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI1WN35C0vWADHlxJ15VHOvmVHnsykdKDTQW4qoJB5y6GyJDBe";
+       //myCardAdapter.notifyDataSetChanged();
+
         myCardModel.setOnClickListener(new MyCardModel.OnClickListener() {
             @Override
             public void OnClickListener() {
@@ -90,7 +93,7 @@ myCardAdapter=new MyCardAdapter(this);
                 Toast.makeText(getApplicationContext(), "ondislike", Toast.LENGTH_SHORT).show();
             }
         });
-
-
+        myCardAdapter.add(myCardModel);
+        cardContainer.setAdapter(myCardAdapter);
     }
 }
