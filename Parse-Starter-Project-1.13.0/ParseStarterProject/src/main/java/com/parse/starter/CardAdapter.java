@@ -19,10 +19,10 @@ public abstract class CardAdapter extends BaseCardAdapter {
         this.mData = new ArrayList<>();
     }
 
-    public CardAdapter(Context context, ArrayList< MyCardModel> items) {
-        this.context = context;
-        this.mData = new ArrayList(items);
-    }
+//    public CardAdapter(Context context, ArrayList< MyCardModel> items) {
+//        this.context = context;
+//        this.mData = new ArrayList(items);
+//    }
 
     @Override
     public int getCount() {
@@ -97,14 +97,14 @@ public abstract class CardAdapter extends BaseCardAdapter {
 
         this.notifyDataSetChanged();
     }
-    public MyCardModel pop() {
-        Object var2 = this.mLock;
-        MyCardModel model;
-        synchronized(this.mLock) {
-            model = (MyCardModel)this.mData.remove(this.mData.size() - 1);
-        }
-
-        this.notifyDataSetChanged();
-        return model;
-    }
+//    public MyCardModel pop() {
+//        Object var2 = this.mLock;
+//        MyCardModel model;
+//        synchronized(this.mLock) {
+//            model = (MyCardModel)this.mData.remove(this.mData.size() - 1);
+//        }
+//
+//        this.notifyDataSetChanged();
+//        return model;
+//    }
 }

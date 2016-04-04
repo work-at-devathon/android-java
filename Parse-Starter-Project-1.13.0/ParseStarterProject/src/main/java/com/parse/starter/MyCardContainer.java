@@ -110,7 +110,7 @@ public class MyCardContainer extends AdapterView<ListAdapter> {
         this.ensureFull();
         if (this.getChildCount() != 0) {
             this.mTopCard = this.getChildAt(this.getChildCount() - 1);
-            this.mTopCard.setLayerType(2, (Paint) null);
+            //this.mTopCard.setLayerType(2, (Paint) null);
         }
 
         this.mNumberOfCards = this.getAdapter().getCount();
@@ -120,7 +120,7 @@ public class MyCardContainer extends AdapterView<ListAdapter> {
     private void ensureFull() {
         while (this.mNextAdapterPosition < this.mListAdapter.getCount() && this.getChildCount() < this.mMaxVisible) {
             View view = this.mListAdapter.getView(this.mNextAdapterPosition, (View) null, this);
-            view.setLayerType(1, (Paint) null);
+            //view.setLayerType(1, (Paint) null);
             if (this.mOrientation == Orientations.Orientation.Disordered) {
                 view.setRotation(this.getDisorderedRotation());
             }
@@ -137,10 +137,10 @@ public class MyCardContainer extends AdapterView<ListAdapter> {
         this.mNextAdapterPosition = 0;
         this.mTopCard = null;
     }
-
-    public Orientations.Orientation getOrientation() {
-        return this.mOrientation;
-    }
+//
+//    public Orientations.Orientation getOrientation() {
+//        return this.mOrientation;
+//    }
 
     public void setOrientation(Orientations.Orientation orientation) {
         if (orientation == null) {
@@ -393,9 +393,9 @@ public class MyCardContainer extends AdapterView<ListAdapter> {
 
                 if (cardModel.getOnCardDimissedListener() != null) {
                     if (targetX > 0.0F) {
-                        cardModel.getOnCardDimissedListener().onDislike();
-                    } else {
                         cardModel.getOnCardDimissedListener().onLike();
+                    } else {
+                        cardModel.getOnCardDimissedListener().onDislike();
                     }
                 }
 

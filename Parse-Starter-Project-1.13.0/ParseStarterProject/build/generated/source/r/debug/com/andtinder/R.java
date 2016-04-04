@@ -29,23 +29,23 @@ public final class R {
 		public static final int ic_launcher = 0x7f020042;
 		public static final int ic_like = 0x7f020043;
 		public static final int like = 0x7f020044;
-		public static final int people = 0x7f020045;
-		public static final int picture1 = 0x7f020046;
-		public static final int picture2 = 0x7f020047;
-		public static final int picture3 = 0x7f020048;
-		public static final int slideshow = 0x7f020049;
+		public static final int people = 0x7f020046;
+		public static final int picture1 = 0x7f020047;
+		public static final int picture2 = 0x7f020048;
+		public static final int picture3 = 0x7f020049;
+		public static final int slideshow = 0x7f02004a;
 	}
 	public static final class id {
-		public static final int btn_sep_1 = 0x7f0c0060;
-		public static final int btn_sep_2 = 0x7f0c0074;
-		public static final int description = 0x7f0c0072;
+		public static final int btn_sep_1 = 0x7f0c0062;
+		public static final int btn_sep_2 = 0x7f0c0077;
+		public static final int description = 0x7f0c0075;
 		public static final int disordered = 0x7f0c0014;
-		public static final int divider_bottom = 0x7f0c0061;
-		public static final int divider_title = 0x7f0c005e;
-		public static final int global_container = 0x7f0c005c;
+		public static final int divider_bottom = 0x7f0c0063;
+		public static final int divider_title = 0x7f0c0060;
+		public static final int global_container = 0x7f0c005e;
 		public static final int image = 0x7f0c002b;
-		public static final int image_1 = 0x7f0c0062;
-		public static final int image_2 = 0x7f0c0073;
+		public static final int image_1 = 0x7f0c0064;
+		public static final int image_2 = 0x7f0c0076;
 		public static final int ordered = 0x7f0c0015;
 		public static final int title = 0x7f0c002f;
 	}

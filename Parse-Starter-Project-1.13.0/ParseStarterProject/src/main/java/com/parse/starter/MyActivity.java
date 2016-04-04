@@ -3,6 +3,8 @@ package com.parse.starter;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
+import android.view.View;
+import android.widget.ImageView;
 import android.widget.Toast;
 
 import com.parse.FindCallback;
@@ -56,10 +58,40 @@ myCardAdapter=new MyCardAdapter(this);
 //                        hi.rating = (String) parseObject.get("rating").toString();
 //                        hi.imageUri = (String) parseObject.get("image");
 //                        hinfo.add(hi);
+
+                        m.setOnClickListener(new MyCardModel.OnClickListener() {
+                            @Override
+                            public void OnClickListener() {
+                                //Toast.makeText(getApplicationContext(), "onclicklistener", Toast.LENGTH_SHORT).show();
+                            }
+                        });
+                        m.setOnCardDimissedListener(new MyCardModel.OnCardDimissedListener() {
+                            @Override
+                            public void onLike() {
+                                Toast.makeText(getApplicationContext(), "Like", Toast.LENGTH_SHORT).show();
+//                                ImageView imageView=(ImageView)findViewById(R.id.like);
+//                                imageView.setImageResource(R.drawable.like);
+//                                TextView textView=(TextView)findViewById(R.id.textView);
+//                                textView.setVisibility(View.VISIBLE);
+//                                textView.setText("Like");
+
+                            }
+
+                            @Override
+                            public void onDislike() {
+                                Toast.makeText(getApplicationContext(), "Nope", Toast.LENGTH_SHORT).show();
+
+                                ImageView imageView=(ImageView)findViewById(R.id.nope);
+                                imageView.setVisibility(View.VISIBLE);
+
+                                imageView.setImageResource(R.drawable.nope);
+                                imageView.setVisibility(View.INVISIBLE);
+                            }
+                        });
                         Log.d("hotels", "Retrieved ");
                     }
                     //hotelAdapter.notifyDataSetChanged();
-                     myCardAdapter.notifyDataSetChanged();
+                     myCardAdapter.notifyDataSetChanged();cardContainer.setAdapter(myCardAdapter);
                 } else {
                     Log.d("Hotels", "Error: " + e.getMessage());
                 }
@@ -69,31 +101,14 @@ myCardAdapter=new MyCardAdapter(this);
 //        hotelAdapter = new HotelAdapter(hinfo);
 //        recyclerView.setAdapter(hotelAdapter);
 //        recyclerView.setLayoutManager(new LinearLayoutManager(this));
-        MyCardModel myCardModel = new MyCardModel();
-        // myCardAdapter.add(m);
+//        MyCardModel myCardModel = new MyCardModel();
+//        // myCardAdapter.add(m);
+//
+//        myCardModel.hotelname="abc hotel";
+//        myCardModel.address="123";myCardModel.rating="4";myCardModel.imageUrl="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI1WN35C0vWADHlxJ15VHOvmVHnsykdKDTQW4qoJB5y6GyJDBe";
+//
+//
+//        myCardAdapter.add(myCardModel);myCardAdapter.notifyDataSetChanged();
 
-        //myCardModel.hotelname="abc hotel";
-       // myCardModel.address="123";myCardModel.rating="4";myCardModel.imageUrl="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQI1WN35C0vWADHlxJ15VHOvmVHnsykdKDTQW4qoJB5y6GyJDBe";
-       //myCardAdapter.notifyDataSetChanged();
-
-        myCardModel.setOnClickListener(new MyCardModel.OnClickListener() {
-            @Override
-            public void OnClickListener() {
-                Toast.makeText(getApplicationContext(), "onclicklistener", Toast.LENGTH_SHORT).show();
-            }
-        });
-        myCardModel.setOnCardDimissedListener(new MyCardModel.OnCardDimissedListener() {
-            @Override
-            public void onLike() {
-                Toast.makeText(getApplicationContext(), "onlike", Toast.LENGTH_SHORT).show();
-            }
-
-            @Override
-            public void onDislike() {
-                Toast.makeText(getApplicationContext(), "ondislike", Toast.LENGTH_SHORT).show();
-            }
-        });
-        myCardAdapter.add(myCardModel);
-        cardContainer.setAdapter(myCardAdapter);
     }
 }
