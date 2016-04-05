@@ -393,8 +393,19 @@ public class MyCardContainer extends AdapterView<ListAdapter> {
 
                 if (cardModel.getOnCardDimissedListener() != null) {
                     if (targetX > 0.0F) {
+//                        MyCardModel m=(MyCardModel) MyCardContainer.this.getAdapter().getItem(0);
+//                        m.setLike(true);
+//                        if(!cardModel.isLike()){
+//                            TextView t =(TextView)findViewById(R.id.textView);
+//                        t.setVisibility(VISIBLE);
+//                    }
+
+
                         cardModel.getOnCardDimissedListener().onLike();
+
                     } else {
+//                        TextView t =(TextView)findViewById(R.id.textView2);
+//                        t.setVisibility(VISIBLE);
                         cardModel.getOnCardDimissedListener().onDislike();
                     }
                 }
@@ -411,6 +422,7 @@ public class MyCardContainer extends AdapterView<ListAdapter> {
                 });
                 return true;
             } else {
+
                 return false;
             }
         }

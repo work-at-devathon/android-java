@@ -89,6 +89,7 @@ public abstract class CardAdapter extends BaseCardAdapter {
         // this.notifyDataSetChanged();
     }
 
+
     public void add(MyCardModel item) {
         Object var2 = this.mLock;
         synchronized (this.mLock) {

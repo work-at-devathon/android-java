@@ -3,8 +3,7 @@ package com.parse.starter;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
-import android.view.View;
-import android.widget.ImageView;
+import android.widget.RelativeLayout;
 import android.widget.Toast;
 
 import com.parse.FindCallback;
@@ -16,7 +15,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MyActivity extends AppCompatActivity {
-    MyCardContainer cardContainer;
+    MyCardContainer cardContainer;RelativeLayout r;
     MyCardModel m;
     List<HotelInfo> hinfo = new ArrayList<>();
     List<MyCardModel> hinfo1 = new ArrayList<>();
@@ -31,7 +30,7 @@ public class MyActivity extends AppCompatActivity {
 
         //RecyclerView recyclerView = (RecyclerView) findViewById(R.id.cardList);
         cardContainer = (MyCardContainer) findViewById(R.id.layoutview1);
-
+  r=(RelativeLayout)findViewById(R.id.global_container);
 
         String s = getIntent().getStringExtra("key");
         // Toast.makeText(this, s, Toast.LENGTH_SHORT).show();
@@ -69,23 +68,12 @@ myCardAdapter=new MyCardAdapter(this);
                             @Override
                             public void onLike() {
                                 Toast.makeText(getApplicationContext(), "Like", Toast.LENGTH_SHORT).show();
-//                                ImageView imageView=(ImageView)findViewById(R.id.like);
-//                                imageView.setImageResource(R.drawable.like);
-//                                TextView textView=(TextView)findViewById(R.id.textView);
-//                                textView.setVisibility(View.VISIBLE);
-//                                textView.setText("Like");
 
                             }
 
                             @Override
                             public void onDislike() {
                                 Toast.makeText(getApplicationContext(), "Nope", Toast.LENGTH_SHORT).show();
-
-                                ImageView imageView=(ImageView)findViewById(R.id.nope);
-                                imageView.setVisibility(View.VISIBLE);
-
-                                imageView.setImageResource(R.drawable.nope);
-                                imageView.setVisibility(View.INVISIBLE);
                             }
                         });
                         Log.d("hotels", "Retrieved ");

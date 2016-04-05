@@ -49,6 +49,14 @@ public class MyCardModel {
 
         void onDislike();
     }
+    private boolean isLike = false;
+    public boolean isLike() {
+        return isLike;
+    }
+
+    public void setLike(boolean isLike) {
+        this.isLike = isLike;
+    }
 //    private Drawable cardImageDrawable;
 //    private Drawable cardLikeImageDrawable;
 //    private Drawable cardDislikeImageDrawable;

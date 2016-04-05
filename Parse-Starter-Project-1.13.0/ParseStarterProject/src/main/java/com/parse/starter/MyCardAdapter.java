@@ -22,6 +22,7 @@ public final class MyCardAdapter extends CardAdapter {
 
     }
 
+
     public View getCardView(int position, MyCardModel model, View convertView, ViewGroup parent) {
         if (convertView == null) {//context=convertView.getContext();
             LayoutInflater inflater = LayoutInflater.from(this.context);
@@ -34,8 +35,16 @@ public final class MyCardAdapter extends CardAdapter {
         imageView = (ImageView) convertView.findViewById(R.id.myimage);
         Picasso.with(context).load(model.imageUrl).resize(350,500).into(imageView);
         ((TextView) convertView.findViewById(R.id.mytitle)).setText(model.hotelname);
-        ((TextView) convertView.findViewById(R.id.myaddress)).setText("Address:"+ "\n"+ model.address);
-        ((TextView) convertView.findViewById(R.id.myrating)).setText("Rating:" +model.rating);
+        ((TextView) convertView.findViewById(R.id.myaddress)).setText("Address:" + "\n" + model.address);
+        ((TextView) convertView.findViewById(R.id.myrating)).setText("Rating:" + model.rating);
+//        if(model.isLike())
+//        {TextView t=(TextView)convertView.findViewById(R.id.textView);
+//            t.setVisibility(View.VISIBLE);
+//               }
+//        else{TextView t1=(TextView)convertView.findViewById(R.id.textView2);
+//        //t1.setVisibility(View.VISIBLE);
+//        }
+
         return convertView;
     }
 }
