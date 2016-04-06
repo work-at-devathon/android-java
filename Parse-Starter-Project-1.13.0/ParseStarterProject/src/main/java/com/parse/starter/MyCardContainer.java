@@ -19,16 +19,18 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewConfiguration;
 import android.view.animation.AccelerateInterpolator;
+import android.view.animation.AlphaAnimation;
 import android.view.animation.LinearInterpolator;
 import android.widget.AdapterView;
 import android.widget.ListAdapter;
+import android.widget.TextView;
 
 import java.util.Random;
 
 public class MyCardContainer extends AdapterView<ListAdapter> {
-    public static final int INVALID_POINTER_ID = -1;
+   // public static final int INVALID_POINTER_ID = -1;
     private int mActivePointerId = -1;
-    private static final double DISORDERED_MAX_ROTATION_RADIANS = 0.04908738521234052D;
+  //  private static final double DISORDERED_MAX_ROTATION_RADIANS = 0.04908738521234052D;
     private int mNumberOfCards = -1;
     private final DataSetObserver mDataSetObserver = new DataSetObserver() {
         public void onChanged() {
@@ -58,6 +60,7 @@ public class MyCardContainer extends AdapterView<ListAdapter> {
     private int mGravity;
     private int mNextAdapterPosition;
     private boolean mDragging;
+    TextView t;TextView t1;
 
     public MyCardContainer(Context context) {
         super(context);
@@ -129,6 +132,7 @@ public class MyCardContainer extends AdapterView<ListAdapter> {
             this.requestLayout();
             ++this.mNextAdapterPosition;
         }
+
 
     }
 
@@ -257,6 +261,12 @@ public class MyCardContainer extends AdapterView<ListAdapter> {
                     if (!this.mDragging) {
                         return true;
                     }
+//                    ObjectAnimator fadeAnim = ObjectAnimator.ofFloat(t, "alpha", 0.2f).setDuration(2000);
+//                    fadeAnim.start();fadeAnim.end();
+                    t.setVisibility(INVISIBLE);
+//                    ObjectAnimator fadeAnim1 = ObjectAnimator.ofFloat(t1, "alpha", 0.2f).setDuration(2000);
+//                    fadeAnim1.start();fadeAnim1.end();
+                    t1.setVisibility(INVISIBLE);
 
                     this.mDragging = false;
                     this.mActivePointerId = -1;
@@ -273,6 +283,18 @@ public class MyCardContainer extends AdapterView<ListAdapter> {
                     if (Math.abs(dx) > (float) this.mTouchSlop || Math.abs(dy) > (float) this.mTouchSlop) {
                         this.mDragging = true;
                     }
+                    if((this.mLastTouchX-x)<1){ View current=this.getChildAt(this.getChildCount() -1);
+                        t=(TextView)current.findViewById(R.id.textView);
+
+                         AlphaAnimation fadeOut = new AlphaAnimation( 0.0f , 1.0f );
+                    t.startAnimation(fadeOut);fadeOut.setDuration(500);t.setVisibility(VISIBLE);
+                    }
+                    if((this.mLastTouchX-x>1)){ View current1=this.getChildAt(this.getChildCount() -1);
+                        t1=(TextView)current1.findViewById(R.id.textView2);
+                        AlphaAnimation fadeOut1 = new AlphaAnimation( 0.0f , 1.0f );
+                        t1.startAnimation(fadeOut1);fadeOut1.setDuration(500);
+                        t1.setVisibility(VISIBLE);}
+
 
                     if (!this.mDragging) {
                         return true;
@@ -283,6 +305,7 @@ public class MyCardContainer extends AdapterView<ListAdapter> {
                     this.mTopCard.setRotation(40.0F * this.mTopCard.getTranslationX() / ((float) this.getWidth() / 2.0F));
                     this.mLastTouchX = x;
                     this.mLastTouchY = y;
+
                 case 4:
                 case 5:
                 default:
@@ -302,51 +325,51 @@ public class MyCardContainer extends AdapterView<ListAdapter> {
         }
     }
 
-    public boolean onInterceptTouchEvent(MotionEvent event) {
-        if (this.mTopCard == null) {
-            return false;
-        } else if (this.mGestureDetector.onTouchEvent(event)) {
-            return true;
-        } else {
-            int pointerIndex;
-            float x;
-            float y;
-            switch (event.getActionMasked()) {
-                case 0:
-                    this.mTopCard.getHitRect(this.childRect);
-                    MyCardModel cardModel = (MyCardModel) this.getAdapter().getItem(this.getChildCount() - 1);
-                    if (cardModel.getOnClickListener() != null) {
-                        cardModel.getOnClickListener().OnClickListener();
-                    }
-
-                    pointerIndex = event.getActionIndex();
-                    x = event.getX(pointerIndex);
-                    y = event.getY(pointerIndex);
-                    if (!this.childRect.contains((int) x, (int) y)) {
-                        return false;
-                    }
-
-                    this.mLastTouchX = x;
-                    this.mLastTouchY = y;
-                    this.mActivePointerId = event.getPointerId(pointerIndex);
-                    break;
-                case 2:
-                    pointerIndex = event.findPointerIndex(this.mActivePointerId);
-                    x = event.getX(pointerIndex);
-                    y = event.getY(pointerIndex);
-                    if (Math.abs(x - this.mLastTouchX) > (float) this.mTouchSlop || Math.abs(y - this.mLastTouchY) > (float) this.mTouchSlop) {
-                        float[] points = new float[]{x - (float) this.mTopCard.getLeft(), y - (float) this.mTopCard.getTop()};
-                        this.mTopCard.getMatrix().invert(this.mMatrix);
-                        this.mMatrix.mapPoints(points);
-                        this.mTopCard.setPivotX(points[0]);
-                        this.mTopCard.setPivotY(points[1]);
-                        return true;
-                    }
-            }
-
-            return false;
-        }
-    }
+//    public boolean onInterceptTouchEvent(MotionEvent event) {
+//        if (this.mTopCard == null) {
+//            return false;
+//        } else if (this.mGestureDetector.onTouchEvent(event)) {
+//            return true;
+//        } else {
+//            int pointerIndex;
+//            float x;
+//            float y;
+//            switch (event.getActionMasked()) {
+//                case 0:
+//                    this.mTopCard.getHitRect(this.childRect);
+//                    MyCardModel cardModel = (MyCardModel) this.getAdapter().getItem(this.getChildCount() - 1);
+//                    if (cardModel.getOnClickListener() != null) {
+//                        cardModel.getOnClickListener().OnClickListener();
+//                    }
+//
+//                    pointerIndex = event.getActionIndex();
+//                    x = event.getX(pointerIndex);
+//                    y = event.getY(pointerIndex);
+//                    if (!this.childRect.contains((int) x, (int) y)) {
+//                        return false;
+//                    }
+//
+//                    this.mLastTouchX = x;
+//                    this.mLastTouchY = y;
+//                    this.mActivePointerId = event.getPointerId(pointerIndex);
+//                    break;
+//                case 2:
+//                    pointerIndex = event.findPointerIndex(this.mActivePointerId);
+//                    x = event.getX(pointerIndex);
+//                    y = event.getY(pointerIndex);
+//                    if (Math.abs(x - this.mLastTouchX) > (float) this.mTouchSlop || Math.abs(y - this.mLastTouchY) > (float) this.mTouchSlop) {
+//                        float[] points = new float[]{x - (float) this.mTopCard.getLeft(), y - (float) this.mTopCard.getTop()};
+//                        this.mTopCard.getMatrix().invert(this.mMatrix);
+//                        this.mMatrix.mapPoints(points);
+//                        this.mTopCard.setPivotX(points[0]);
+//                        this.mTopCard.setPivotY(points[1]);
+//                        return true;
+//                    }
+//            }
+//
+//            return false;
+//        }
+//    }
 
     public View getSelectedView() {
         throw new UnsupportedOperationException();
