@@ -4,7 +4,6 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.widget.RelativeLayout;
-import android.widget.Toast;
 
 import com.parse.FindCallback;
 import com.parse.ParseException;
@@ -67,13 +66,13 @@ myCardAdapter=new MyCardAdapter(this);
                         m.setOnCardDimissedListener(new MyCardModel.OnCardDimissedListener() {
                             @Override
                             public void onLike() {
-                                Toast.makeText(getApplicationContext(), "Like", Toast.LENGTH_SHORT).show();
+                                //Toast.makeText(getApplicationContext(), "Like", Toast.LENGTH_SHORT).show();
 
                             }
 
                             @Override
                             public void onDislike() {
-                                Toast.makeText(getApplicationContext(), "Nope", Toast.LENGTH_SHORT).show();
+                                //Toast.makeText(getApplicationContext(), "Nope", Toast.LENGTH_SHORT).show();
                             }
                         });
                         Log.d("hotels", "Retrieved ");

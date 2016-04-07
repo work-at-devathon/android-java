@@ -19,18 +19,17 @@ import android.view.MotionEvent;
 import android.view.View;
 import android.view.ViewConfiguration;
 import android.view.animation.AccelerateInterpolator;
-import android.view.animation.AlphaAnimation;
 import android.view.animation.LinearInterpolator;
 import android.widget.AdapterView;
+import android.widget.ImageView;
 import android.widget.ListAdapter;
-import android.widget.TextView;
 
 import java.util.Random;
 
 public class MyCardContainer extends AdapterView<ListAdapter> {
-   // public static final int INVALID_POINTER_ID = -1;
+    // public static final int INVALID_POINTER_ID = -1;
     private int mActivePointerId = -1;
-  //  private static final double DISORDERED_MAX_ROTATION_RADIANS = 0.04908738521234052D;
+    //  private static final double DISORDERED_MAX_ROTATION_RADIANS = 0.04908738521234052D;
     private int mNumberOfCards = -1;
     private final DataSetObserver mDataSetObserver = new DataSetObserver() {
         public void onChanged() {
@@ -60,7 +59,8 @@ public class MyCardContainer extends AdapterView<ListAdapter> {
     private int mGravity;
     private int mNextAdapterPosition;
     private boolean mDragging;
-    TextView t;TextView t1;
+    ImageView t;
+    ImageView t1;
 
     public MyCardContainer(Context context) {
         super(context);
@@ -283,17 +283,40 @@ public class MyCardContainer extends AdapterView<ListAdapter> {
                     if (Math.abs(dx) > (float) this.mTouchSlop || Math.abs(dy) > (float) this.mTouchSlop) {
                         this.mDragging = true;
                     }
-                    if((this.mLastTouchX-x)<1){ View current=this.getChildAt(this.getChildCount() -1);
-                        t=(TextView)current.findViewById(R.id.textView);
+                    View current = this.getChildAt(this.getChildCount() - 1);
+                    t = (ImageView) current.findViewById(R.id.textView);
+                    t1 = (ImageView) current.findViewById(R.id.textView2);
+                    if (dx > 5) {
+//                        AlphaAnimation f2 = new AlphaAnimation(1.0f,0.0f);
+//                        t1.startAnimation(f2);
+                        t1.setVisibility(INVISIBLE);
+                        float b=event.getX(pointerIndex);
 
-                         AlphaAnimation fadeOut = new AlphaAnimation( 0.0f , 1.0f );
-                    t.startAnimation(fadeOut);fadeOut.setDuration(500);t.setVisibility(VISIBLE);
+
+//                        AlphaAnimation fadeOut = new AlphaAnimation(0.0f, 1.0f);
+//                        t.startAnimation(fadeOut);
+//                        fadeOut.setDuration(1000);
+                        float a=(b-mLastTouchX)/10.0f;
+                        t.setAlpha(a);
+                        t.setVisibility(VISIBLE);
+                        //t.clearAnimation();
+//                        t.setAlpha(1.0f);
                     }
-                    if((this.mLastTouchX-x>1)){ View current1=this.getChildAt(this.getChildCount() -1);
-                        t1=(TextView)current1.findViewById(R.id.textView2);
-                        AlphaAnimation fadeOut1 = new AlphaAnimation( 0.0f , 1.0f );
-                        t1.startAnimation(fadeOut1);fadeOut1.setDuration(500);
-                        t1.setVisibility(VISIBLE);}
+                    if (dx < -5) {
+//                        AlphaAnimation f1=new AlphaAnimation(1.0f,0.0f);
+//                        t.startAnimation(f1);f1.setDuration(500);
+//                        float d=event.getY(pointerIndex);
+                        t.setVisibility(INVISIBLE);
+//                        float c=((d)-(mLastTouchY))/8.0f;
+                        t1.setAlpha(-1*dx);
+
+
+//                        AlphaAnimation fadeOut1 = new AlphaAnimation(0.0f, 1.0f);
+//                        t1.startAnimation(fadeOut1);
+//                        fadeOut1.setDuration(1000);
+
+                        t1.setVisibility(VISIBLE);
+                    }
 
 
                     if (!this.mDragging) {
@@ -372,7 +395,8 @@ public class MyCardContainer extends AdapterView<ListAdapter> {
 //    }
 
     public View getSelectedView() {
-        throw new UnsupportedOperationException();
+        // throw new UnsupportedOperationException();
+        return null;
     }
 
     public void setSelection(int position) {

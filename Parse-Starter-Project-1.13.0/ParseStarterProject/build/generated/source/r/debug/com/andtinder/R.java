@@ -21,19 +21,19 @@ public final class R {
 	public static final class drawable {
 		public static final int bg_selector = 0x7f02003b;
 		public static final int camera = 0x7f02003c;
-		public static final int card_bg = 0x7f02003d;
-		public static final int card_scatter = 0x7f02003e;
-		public static final int cats = 0x7f02003f;
-		public static final int dislike = 0x7f020040;
-		public static final int heart = 0x7f020041;
-		public static final int ic_launcher = 0x7f020042;
-		public static final int ic_like = 0x7f020043;
-		public static final int like = 0x7f020044;
-		public static final int people = 0x7f020046;
-		public static final int picture1 = 0x7f020047;
-		public static final int picture2 = 0x7f020048;
-		public static final int picture3 = 0x7f020049;
-		public static final int slideshow = 0x7f02004a;
+		public static final int card_bg = 0x7f02003e;
+		public static final int card_scatter = 0x7f02003f;
+		public static final int cats = 0x7f020040;
+		public static final int dislike = 0x7f020042;
+		public static final int heart = 0x7f020044;
+		public static final int ic_launcher = 0x7f020045;
+		public static final int ic_like = 0x7f020046;
+		public static final int like = 0x7f020048;
+		public static final int people = 0x7f02004b;
+		public static final int picture1 = 0x7f02004c;
+		public static final int picture2 = 0x7f02004d;
+		public static final int picture3 = 0x7f02004e;
+		public static final int slideshow = 0x7f02004f;
 	}
 	public static final class id {
 		public static final int btn_sep_1 = 0x7f0c0062;
