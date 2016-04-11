@@ -305,10 +305,10 @@ public class MyCardContainer extends AdapterView<ListAdapter> {
                     if (dx < -5) {
 //                        AlphaAnimation f1=new AlphaAnimation(1.0f,0.0f);
 //                        t.startAnimation(f1);f1.setDuration(500);
-//                        float d=event.getY(pointerIndex);
+                        float d=event.getY(pointerIndex);
                         t.setVisibility(INVISIBLE);
-//                        float c=((d)-(mLastTouchY))/8.0f;
-                        t1.setAlpha(-1*dx);
+                        float c=((d)+(mLastTouchY))/20.0f;
+                        t1.setAlpha(c);
 
 
 //                        AlphaAnimation fadeOut1 = new AlphaAnimation(0.0f, 1.0f);

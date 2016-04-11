@@ -248,6 +248,348 @@
                         "endOffset": 1570
                     }
                 }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1339,
+                    "endColumn": 108,
+                    "endOffset": 1443
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 108,
+                        "endOffset": 274
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1448,
+                    "endColumn": 97,
+                    "endOffset": 1541
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 97,
+                        "endOffset": 372
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1546,
+                    "endColumn": 103,
+                    "endOffset": 1645
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 377,
+                        "endColumn": 103,
+                        "endOffset": 476
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1650,
+                    "endColumn": 91,
+                    "endOffset": 1737
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 481,
+                        "endColumn": 91,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1742,
+                    "endColumn": 65,
+                    "endOffset": 1803
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 573,
+                        "endColumn": 65,
+                        "endOffset": 634
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1808,
+                    "endColumn": 67,
+                    "endOffset": 1871
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 639,
+                        "endColumn": 67,
+                        "endOffset": 702
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1876,
+                    "endColumn": 57,
+                    "endOffset": 1929
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 707,
+                        "endColumn": 57,
+                        "endOffset": 760
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1934,
+                    "endColumn": 70,
+                    "endOffset": 2000
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 765,
+                        "endColumn": 70,
+                        "endOffset": 831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2005,
+                    "endColumn": 69,
+                    "endOffset": 2070
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 836,
+                        "endColumn": 69,
+                        "endOffset": 901
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2075,
+                    "endColumn": 83,
+                    "endOffset": 2154
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 906,
+                        "endColumn": 83,
+                        "endOffset": 985
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2159,
+                    "endColumn": 71,
+                    "endOffset": 2226
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 990,
+                        "endColumn": 71,
+                        "endOffset": 1057
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2231,
+                    "endColumn": 71,
+                    "endOffset": 2298
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1062,
+                        "endColumn": 71,
+                        "endOffset": 1129
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2303,
+                    "endColumn": 84,
+                    "endOffset": 2383
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1134,
+                        "endColumn": 84,
+                        "endOffset": 1214
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2388,
+                    "endColumn": 94,
+                    "endOffset": 2478
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1219,
+                        "endColumn": 94,
+                        "endOffset": 1309
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2483,
+                    "endColumn": 60,
+                    "endOffset": 2539
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1314,
+                        "endColumn": 60,
+                        "endOffset": 1370
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2544,
+                    "endColumn": 62,
+                    "endOffset": 2602
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1375,
+                        "endColumn": 62,
+                        "endOffset": 1433
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2607,
+                    "endColumn": 83,
+                    "endOffset": 2686
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1438,
+                        "endColumn": 83,
+                        "endOffset": 1517
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2691,
+                    "endColumn": 57,
+                    "endOffset": 2744
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-ja/values-ja.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1654,
+                        "endColumn": 57,
+                        "endOffset": 1707
+                    }
+                }
             }
         ]
     }

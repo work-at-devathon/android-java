@@ -21,11 +21,19 @@ public class MyActivity extends AppCompatActivity {
     HotelAdapter hotelAdapter;
     MyCardAdapter myCardAdapter;
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
         setContentView(R.layout.activity_my);
+
+        // If using in a fragment
+        //loginButton.setFragment(this);
+        // Other app specific specialization
+
+        // Callback registration
+
 
         //RecyclerView recyclerView = (RecyclerView) findViewById(R.id.cardList);
         cardContainer = (MyCardContainer) findViewById(R.id.layoutview1);
@@ -98,4 +106,7 @@ myCardAdapter=new MyCardAdapter(this);
 //        myCardAdapter.add(myCardModel);myCardAdapter.notifyDataSetChanged();
 
     }
+
+
+
 }

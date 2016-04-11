@@ -16,12 +16,12 @@
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/color/abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/color/abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_material_dark.xml",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/color/abc_primary_text_disable_only_material_dark.xml"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_secondary_text_material_dark.xml",
@@ -32,12 +32,20 @@
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/color/switch_thumb_material_light.xml"
     },
     {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/color/com_facebook_button_text_color.xml",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/color/com_facebook_button_text_color.xml"
+    },
+    {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_search_url_text.xml",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/color/abc_search_url_text.xml"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_secondary_text_material_light.xml",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.0/res/color/abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/color/com_facebook_send_button_text_color.xml",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/color/com_facebook_send_button_text_color.xml"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/color/abc_primary_text_material_light.xml",
