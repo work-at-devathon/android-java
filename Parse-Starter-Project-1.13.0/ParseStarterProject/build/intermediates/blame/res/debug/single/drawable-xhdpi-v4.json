@@ -1,15 +1,19 @@
 [
     {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_focused.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_plus_signin_btn_text_dark_focused.9.png"
+    },
+    {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__ic_seekbar_progress_bg.9.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__ic_seekbar_progress_bg.9.png"
     },
     {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xhdpi/com_facebook_tooltip_black_background.9.png"
-    },
-    {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00018.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00018.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_light_disabled.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_google_signin_btn_text_light_disabled.9.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_radio_to_on_mtrl_015.png",
@@ -20,20 +24,24 @@
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_tab_indicator_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__ic_gif_badge.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__ic_gif_badge.png"
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_light_focused.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_google_signin_btn_text_light_focused.9.png"
     },
     {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00033.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00033.png"
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_disabled.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_plus_signin_btn_icon_light_disabled.9.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__ic_retweet_light.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__ic_retweet_light.png"
     },
     {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__ic_tweet_verified.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__ic_tweet_verified.png"
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_pressed.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_plus_signin_btn_text_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_google_signin_btn_icon_light_pressed.9.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png",
@@ -44,28 +52,28 @@
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/drawable-xhdpi/dgts__spinner_light.png"
     },
     {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_normal.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_plus_signin_btn_icon_light_normal.9.png"
+    },
+    {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00059.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00059.png"
     },
     {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png"
-    },
-    {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__action_heart_off_default.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__action_heart_off_default.png"
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_normal.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_plus_signin_btn_text_dark_normal.9.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_divider_mtrl_alpha.9.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_list_divider_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__action_heart_off_default.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__action_heart_off_default.png"
     },
     {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__ic_logo_blue.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__ic_logo_blue.png"
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_light_pressed.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_google_signin_btn_text_light_pressed.9.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_favicon_white.png",
@@ -76,24 +84,96 @@
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00052.png"
     },
     {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/messenger_button_send_round_shadow.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xhdpi/messenger_button_send_round_shadow.png"
-    },
-    {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png"
-    },
-    {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00004.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00004.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__ic_tweet_photo_error_dark.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__ic_tweet_photo_error_dark.png"
     },
     {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00004.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00004.png"
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__ic_logo_default.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.5/res/drawable-xhdpi/tw__ic_logo_default.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00044.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00044.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00014.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00014.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00022.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00022.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_google_signin_btn_icon_dark_pressed.9.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00011.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00011.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_disabled.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_google_signin_btn_icon_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00032.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00032.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_tooltip_black_background.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xhdpi/com_facebook_tooltip_black_background.9.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__ic_gif_badge.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__ic_gif_badge.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_focused.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_google_signin_btn_icon_dark_focused.9.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00033.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00033.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__ic_tweet_verified.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__ic_tweet_verified.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_plus_signin_btn_text_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_share_mtrl_alpha.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__ic_logo_blue.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__ic_logo_blue.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/messenger_button_send_round_shadow.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xhdpi/messenger_button_send_round_shadow.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_015.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00006.png",
@@ -112,40 +192,16 @@
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00026.png"
     },
     {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_ab_back_mtrl_am_alpha.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_ic_ab_back_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__ic_logo_default.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.5/res/drawable-xhdpi/tw__ic_logo_default.png"
-    },
-    {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_button_icon_white.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xhdpi/com_facebook_button_icon_white.png"
     },
     {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00044.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00044.png"
-    },
-    {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00014.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00014.png"
-    },
-    {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00022.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00022.png"
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_focused.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_google_signin_btn_icon_light_focused.9.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__composer_logo_white.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.3/res/drawable-xhdpi/tw__composer_logo_white.png"
-    },
-    {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00011.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00011.png"
-    },
-    {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00032.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00032.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00057.png",
@@ -184,6 +240,10 @@
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xhdpi/com_facebook_tooltip_blue_background.9.png"
     },
     {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_plus_signin_btn_icon_dark_normal.9.png"
+    },
+    {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_go_search_api_mtrl_alpha.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_ic_go_search_api_mtrl_alpha.png"
     },
@@ -214,6 +274,10 @@
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__ic_video_pause_pressed.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__ic_video_pause_pressed.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_pressed.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_plus_signin_btn_icon_light_pressed.9.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00048.png",
@@ -256,6 +320,10 @@
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00028.png"
     },
     {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_google_signin_btn_text_dark_normal.9.png"
+    },
+    {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00016.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00016.png"
     },
@@ -280,12 +348,20 @@
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xhdpi/com_facebook_button_send_icon_white.png"
     },
     {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_focused.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_google_signin_btn_text_dark_focused.9.png"
+    },
+    {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_commit_search_api_mtrl_alpha.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_ic_commit_search_api_mtrl_alpha.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/ic_launcher.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.github.kikoso/SwipeableCards/1.1-RELEASE/res/drawable-xhdpi-v4/ic_launcher.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_pressed.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_google_signin_btn_text_dark_pressed.9.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_tooltip_black_xout.png",
@@ -324,6 +400,10 @@
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__action_heart_on_default.png"
     },
     {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_focused.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_plus_signin_btn_icon_dark_focused.9.png"
+    },
+    {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00041.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00041.png"
     },
@@ -348,6 +428,10 @@
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_list_pressed_holo_light.9.png"
     },
     {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_normal.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_google_signin_btn_icon_dark_normal.9.png"
+    },
+    {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/dgts__logo.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/drawable-xhdpi/dgts__logo.png"
     },
@@ -368,6 +452,10 @@
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.3/res/drawable-xhdpi/tw__composer_logo_blue.png"
     },
     {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_light_focused.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_plus_signin_btn_icon_light_focused.9.png"
+    },
+    {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__ic_seekbar_bg.9.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__ic_seekbar_bg.9.png"
     },
@@ -382,6 +470,10 @@
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00005.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00005.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_full_open_on_phone.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_full_open_on_phone.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/dgts__logo_name.png",
@@ -408,6 +500,10 @@
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/drawable-xhdpi/dgts__ic_success.png"
     },
     {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_light_focused.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_plus_signin_btn_text_light_focused.9.png"
+    },
+    {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_paste_mtrl_am_alpha.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_ic_menu_paste_mtrl_am_alpha.png"
     },
@@ -426,6 +522,14 @@
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_tooltip_black_topnub.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xhdpi/com_facebook_tooltip_black_topnub.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_light_normal.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_google_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_light_pressed.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_plus_signin_btn_text_light_pressed.9.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00027.png",
@@ -456,36 +560,12 @@
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_ic_menu_selectall_mtrl_alpha.png"
     },
     {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00019.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00019.png"
-    },
-    {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00036.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00036.png"
-    },
-    {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00049.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00049.png"
-    },
-    {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00054.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00054.png"
-    },
-    {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00038.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00038.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00042.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00042.png"
-    },
-    {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00055.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00055.png"
-    },
-    {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xhdpi/com_facebook_button_like_icon_selected.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00050.png",
@@ -496,20 +576,8 @@
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/drawable-xhdpi/dgts__addressbook_header.png"
     },
     {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00037.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00037.png"
-    },
-    {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_ic_menu_copy_mtrl_am_alpha.png"
-    },
-    {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00025.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00025.png"
-    },
-    {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00012.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00012.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00040.png",
@@ -536,40 +604,24 @@
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00008.png"
     },
     {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00010.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00010.png"
-    },
-    {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00013.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00013.png"
     },
     {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00058.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00058.png"
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_pressed.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_plus_signin_btn_icon_dark_pressed.9.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00053.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00053.png"
     },
     {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00002.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00002.png"
-    },
-    {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_btn_check_to_on_mtrl_000.png"
     },
     {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_focused_holo.9.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_list_focused_holo.9.png"
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_text_dark_disabled.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_google_signin_btn_text_dark_disabled.9.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_longpressed_holo.9.png",
@@ -580,16 +632,12 @@
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_ab_share_pack_mtrl_alpha.9.png"
     },
     {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_light_normal.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_google_signin_btn_icon_light_normal.9.png"
+    },
+    {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_btn_switch_to_on_mtrl_00012.9.png"
-    },
-    {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__ic_play_default.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__ic_play_default.png"
-    },
-    {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00029.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00029.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__ic_video_play.png",
@@ -604,12 +652,96 @@
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00023.png"
     },
     {
-        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__ic_inline_share.png",
-        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__ic_inline_share.png"
-    },
-    {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_popup_background_mtrl_mult.9.png",
         "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_plus_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00019.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00019.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00036.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00036.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00049.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00049.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00054.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00054.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00055.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00055.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/com_facebook_button_like_icon_selected.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/drawable-xhdpi/com_facebook_button_like_icon_selected.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00037.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00037.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_light_normal.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_plus_signin_btn_text_light_normal.9.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00025.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00025.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00012.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00012.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_google_signin_btn_icon_dark_disabled.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_google_signin_btn_icon_dark_disabled.9.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/common_plus_signin_btn_text_light_disabled.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/drawable-xhdpi/common_plus_signin_btn_text_light_disabled.9.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00010.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00010.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_spinner_mtrl_am_alpha.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00058.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00058.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00002.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00002.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_list_focused_holo.9.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/drawable-xhdpi/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__ic_play_default.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__ic_play_default.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__heart_animation_detail_60fps_00029.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__heart_animation_detail_60fps_00029.png"
+    },
+    {
+        "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/tw__ic_inline_share.png",
+        "source": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/drawable-xhdpi/tw__ic_inline_share.png"
     },
     {
         "merged": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_search_api_mtrl_alpha.png",

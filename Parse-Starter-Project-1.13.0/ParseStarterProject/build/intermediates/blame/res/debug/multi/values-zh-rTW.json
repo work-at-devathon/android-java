@@ -6,10 +6,10 @@
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 55,
+                    "startOffset": 105,
                     "endLine": 5,
                     "endColumn": 14,
-                    "endOffset": 186
+                    "endOffset": 236
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -27,10 +27,10 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 191,
+                    "startOffset": 241,
                     "endLine": 9,
                     "endColumn": 14,
-                    "endOffset": 321
+                    "endOffset": 371
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -48,10 +48,10 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 326,
+                    "startOffset": 376,
                     "endLine": 13,
                     "endColumn": 14,
-                    "endOffset": 455
+                    "endOffset": 505
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -69,9 +69,9 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 460,
+                    "startOffset": 510,
                     "endColumn": 94,
-                    "endOffset": 550
+                    "endOffset": 600
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zh-rTW/values-zh-rTW.xml",
@@ -88,9 +88,9 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 555,
+                    "startOffset": 605,
                     "endColumn": 92,
-                    "endOffset": 643
+                    "endOffset": 693
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zh-rTW/values-zh-rTW.xml",
@@ -107,9 +107,9 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 648,
+                    "startOffset": 698,
                     "endColumn": 99,
-                    "endOffset": 743
+                    "endOffset": 793
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zh-rTW/values-zh-rTW.xml",
@@ -126,9 +126,9 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 748,
+                    "startOffset": 798,
                     "endColumn": 81,
-                    "endOffset": 825
+                    "endOffset": 875
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zh-rTW/values-zh-rTW.xml",
@@ -145,9 +145,9 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 830,
+                    "startOffset": 880,
                     "endColumn": 96,
-                    "endOffset": 922
+                    "endOffset": 972
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zh-rTW/values-zh-rTW.xml",
@@ -164,9 +164,9 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 927,
+                    "startOffset": 977,
                     "endColumn": 107,
-                    "endOffset": 1030
+                    "endOffset": 1080
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zh-rTW/values-zh-rTW.xml",
@@ -183,9 +183,9 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1035,
+                    "startOffset": 1085,
                     "endColumn": 95,
-                    "endOffset": 1126
+                    "endOffset": 1176
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zh-rTW/values-zh-rTW.xml",
@@ -202,9 +202,9 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1131,
+                    "startOffset": 1181,
                     "endColumn": 95,
-                    "endOffset": 1222
+                    "endOffset": 1272
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zh-rTW/values-zh-rTW.xml",
@@ -221,9 +221,9 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1227,
+                    "startOffset": 1277,
                     "endColumn": 94,
-                    "endOffset": 1317
+                    "endOffset": 1367
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zh-rTW/values-zh-rTW.xml",
@@ -240,9 +240,9 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1322,
+                    "startOffset": 1372,
                     "endColumn": 96,
-                    "endOffset": 1414
+                    "endOffset": 1464
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zh-rTW/values-zh-rTW.xml",
@@ -259,9 +259,9 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1419,
+                    "startOffset": 1469,
                     "endColumn": 94,
-                    "endOffset": 1509
+                    "endOffset": 1559
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zh-rTW/values-zh-rTW.xml",
@@ -278,9 +278,9 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1514,
+                    "startOffset": 1564,
                     "endColumn": 99,
-                    "endOffset": 1609
+                    "endOffset": 1659
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zh-rTW/values-zh-rTW.xml",
@@ -297,9 +297,9 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1614,
+                    "startOffset": 1664,
                     "endColumn": 112,
-                    "endOffset": 1722
+                    "endOffset": 1772
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-zh-rTW/values-zh-rTW.xml",
@@ -316,9 +316,9 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 1727,
+                    "startOffset": 1777,
                     "endColumn": 92,
-                    "endOffset": 1815
+                    "endOffset": 1865
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -335,9 +335,9 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1820,
+                    "startOffset": 1870,
                     "endColumn": 84,
-                    "endOffset": 1900
+                    "endOffset": 1950
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -354,9 +354,9 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 1905,
+                    "startOffset": 1955,
                     "endColumn": 95,
-                    "endOffset": 1996
+                    "endOffset": 2046
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -373,9 +373,9 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2001,
+                    "startOffset": 2051,
                     "endColumn": 91,
-                    "endOffset": 2088
+                    "endOffset": 2138
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -392,9 +392,9 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2093,
+                    "startOffset": 2143,
                     "endColumn": 61,
-                    "endOffset": 2150
+                    "endOffset": 2200
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -411,9 +411,9 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2155,
+                    "startOffset": 2205,
                     "endColumn": 64,
-                    "endOffset": 2215
+                    "endOffset": 2265
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -430,9 +430,9 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 2220,
+                    "startOffset": 2270,
                     "endColumn": 54,
-                    "endOffset": 2270
+                    "endOffset": 2320
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -449,9 +449,9 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 2275,
+                    "startOffset": 2325,
                     "endColumn": 67,
-                    "endOffset": 2338
+                    "endOffset": 2388
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -468,9 +468,9 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 2343,
+                    "startOffset": 2393,
                     "endColumn": 67,
-                    "endOffset": 2406
+                    "endOffset": 2456
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -487,9 +487,9 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 2411,
+                    "startOffset": 2461,
                     "endColumn": 84,
-                    "endOffset": 2491
+                    "endOffset": 2541
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -506,9 +506,9 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 2496,
+                    "startOffset": 2546,
                     "endColumn": 68,
-                    "endOffset": 2560
+                    "endOffset": 2610
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -525,9 +525,9 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 2565,
+                    "startOffset": 2615,
                     "endColumn": 68,
-                    "endOffset": 2629
+                    "endOffset": 2679
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -544,9 +544,9 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 2634,
+                    "startOffset": 2684,
                     "endColumn": 77,
-                    "endOffset": 2707
+                    "endOffset": 2757
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -563,9 +563,9 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 2712,
+                    "startOffset": 2762,
                     "endColumn": 91,
-                    "endOffset": 2799
+                    "endOffset": 2849
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -582,9 +582,9 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 2804,
+                    "startOffset": 2854,
                     "endColumn": 60,
-                    "endOffset": 2860
+                    "endOffset": 2910
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -601,9 +601,9 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 2865,
+                    "startOffset": 2915,
                     "endColumn": 61,
-                    "endOffset": 2922
+                    "endOffset": 2972
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -620,9 +620,9 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 2927,
+                    "startOffset": 2977,
                     "endColumn": 83,
-                    "endOffset": 3006
+                    "endOffset": 3056
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -639,9 +639,560 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 3011,
+                    "startOffset": 3061,
+                    "endColumn": 192,
+                    "endOffset": 3249
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2975,
+                        "endColumn": 196,
+                        "endOffset": 3167
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3254,
+                    "endColumn": 117,
+                    "endOffset": 3367
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1166,
+                        "endColumn": 117,
+                        "endOffset": 1279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3372,
+                    "endColumn": 159,
+                    "endOffset": 3527
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1002,
+                        "endColumn": 163,
+                        "endOffset": 1161
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3532,
+                    "endColumn": 116,
+                    "endOffset": 3644
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 885,
+                        "endColumn": 116,
+                        "endOffset": 997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3649,
+                    "endColumn": 118,
+                    "endOffset": 3763
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 766,
+                        "endColumn": 118,
+                        "endOffset": 880
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3768,
+                    "endColumn": 171,
+                    "endOffset": 3935
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 411,
+                        "endColumn": 175,
+                        "endOffset": 582
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3940,
+                    "endColumn": 174,
+                    "endOffset": 4110
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 587,
+                        "endColumn": 178,
+                        "endOffset": 761
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4115,
+                    "endColumn": 117,
+                    "endOffset": 4228
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 293,
+                        "endColumn": 117,
+                        "endOffset": 406
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4233,
+                    "endColumn": 130,
+                    "endOffset": 4359
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2340,
+                        "endColumn": 130,
+                        "endOffset": 2466
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 4364,
+                    "endColumn": 109,
+                    "endOffset": 4469
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2230,
+                        "endColumn": 109,
+                        "endOffset": 2335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 4474,
+                    "endColumn": 131,
+                    "endOffset": 4601
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2098,
+                        "endColumn": 131,
+                        "endOffset": 2225
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 4606,
+                    "endColumn": 110,
+                    "endOffset": 4712
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1987,
+                        "endColumn": 110,
+                        "endOffset": 2093
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 4717,
+                    "endColumn": 122,
+                    "endOffset": 4835
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 122,
+                        "endOffset": 288
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 4840,
+                    "endColumn": 129,
+                    "endOffset": 4965
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 3530,
+                        "endColumn": 129,
+                        "endOffset": 3655
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 4970,
+                    "endColumn": 120,
+                    "endOffset": 5086
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 3409,
+                        "endColumn": 120,
+                        "endOffset": 3525
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5091,
+                    "endColumn": 124,
+                    "endOffset": 5211
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 3284,
+                        "endColumn": 124,
+                        "endOffset": 3404
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 5216,
+                    "endColumn": 111,
+                    "endOffset": 5323
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3172,
+                        "endColumn": 111,
+                        "endOffset": 3279
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 5328,
+                    "endColumn": 181,
+                    "endOffset": 5505
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values-zh-rTW/common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 185,
+                        "endOffset": 351
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 5510,
+                    "endColumn": 193,
+                    "endOffset": 5699
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2589,
+                        "endColumn": 197,
+                        "endOffset": 2782
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 5704,
+                    "endColumn": 117,
+                    "endOffset": 5817
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2471,
+                        "endColumn": 117,
+                        "endOffset": 2584
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 5822,
+                    "endColumn": 102,
+                    "endOffset": 5920
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2787,
+                        "endColumn": 102,
+                        "endOffset": 2885
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 5925,
+                    "endColumn": 159,
+                    "endOffset": 6080
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1401,
+                        "endColumn": 163,
+                        "endOffset": 1560
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 6085,
+                    "endColumn": 116,
+                    "endOffset": 6197
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1284,
+                        "endColumn": 116,
+                        "endOffset": 1396
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 6202,
+                    "endColumn": 160,
+                    "endOffset": 6358
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1822,
+                        "endColumn": 164,
+                        "endOffset": 1982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 6363,
+                    "endColumn": 118,
+                    "endOffset": 6477
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1703,
+                        "endColumn": 118,
+                        "endOffset": 1817
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 6482,
+                    "endColumn": 137,
+                    "endOffset": 6615
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1565,
+                        "endColumn": 137,
+                        "endOffset": 1698
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 6620,
+                    "endColumn": 84,
+                    "endOffset": 6700
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2890,
+                        "endColumn": 84,
+                        "endOffset": 2970
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 6705,
+                    "endColumn": 86,
+                    "endOffset": 6787
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 3660,
+                        "endColumn": 86,
+                        "endOffset": 3742
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 6792,
+                    "endColumn": 103,
+                    "endOffset": 6891
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-zh-rTW/base_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 3747,
+                        "endColumn": 103,
+                        "endOffset": 3846
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 6896,
                     "endColumn": 47,
-                    "endOffset": 3054
+                    "endOffset": 6939
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -656,11 +1207,11 @@
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 74,
                     "startColumn": 4,
-                    "startOffset": 3059,
+                    "startOffset": 6944,
                     "endColumn": 46,
-                    "endOffset": 3101
+                    "endOffset": 6986
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -675,11 +1226,11 @@
             },
             {
                 "to": {
-                    "startLine": 46,
+                    "startLine": 75,
                     "startColumn": 4,
-                    "startOffset": 3106,
+                    "startOffset": 6991,
                     "endColumn": 55,
-                    "endOffset": 3157
+                    "endOffset": 7042
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -694,11 +1245,11 @@
             },
             {
                 "to": {
-                    "startLine": 47,
+                    "startLine": 76,
                     "startColumn": 4,
-                    "startOffset": 3162,
+                    "startOffset": 7047,
                     "endColumn": 75,
-                    "endOffset": 3233
+                    "endOffset": 7118
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -713,11 +1264,11 @@
             },
             {
                 "to": {
-                    "startLine": 48,
+                    "startLine": 77,
                     "startColumn": 4,
-                    "startOffset": 3238,
+                    "startOffset": 7123,
                     "endColumn": 63,
-                    "endOffset": 3297
+                    "endOffset": 7182
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -732,11 +1283,11 @@
             },
             {
                 "to": {
-                    "startLine": 49,
+                    "startLine": 78,
                     "startColumn": 4,
-                    "startOffset": 3302,
+                    "startOffset": 7187,
                     "endColumn": 81,
-                    "endOffset": 3379
+                    "endOffset": 7264
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -751,11 +1302,11 @@
             },
             {
                 "to": {
-                    "startLine": 50,
+                    "startLine": 79,
                     "startColumn": 4,
-                    "startOffset": 3384,
+                    "startOffset": 7269,
                     "endColumn": 71,
-                    "endOffset": 3451
+                    "endOffset": 7336
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -770,11 +1321,11 @@
             },
             {
                 "to": {
-                    "startLine": 51,
+                    "startLine": 80,
                     "startColumn": 4,
-                    "startOffset": 3456,
+                    "startOffset": 7341,
                     "endColumn": 45,
-                    "endOffset": 3497
+                    "endOffset": 7382
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -789,11 +1340,11 @@
             },
             {
                 "to": {
-                    "startLine": 52,
+                    "startLine": 81,
                     "startColumn": 4,
-                    "startOffset": 3502,
+                    "startOffset": 7387,
                     "endColumn": 62,
-                    "endOffset": 3560
+                    "endOffset": 7445
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -808,11 +1359,11 @@
             },
             {
                 "to": {
-                    "startLine": 53,
+                    "startLine": 82,
                     "startColumn": 4,
-                    "startOffset": 3565,
+                    "startOffset": 7450,
                     "endColumn": 67,
-                    "endOffset": 3628
+                    "endOffset": 7513
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -827,11 +1378,11 @@
             },
             {
                 "to": {
-                    "startLine": 54,
+                    "startLine": 83,
                     "startColumn": 4,
-                    "startOffset": 3633,
+                    "startOffset": 7518,
                     "endColumn": 44,
-                    "endOffset": 3673
+                    "endOffset": 7558
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -846,11 +1397,11 @@
             },
             {
                 "to": {
-                    "startLine": 55,
+                    "startLine": 84,
                     "startColumn": 4,
-                    "startOffset": 3678,
+                    "startOffset": 7563,
                     "endColumn": 41,
-                    "endOffset": 3715
+                    "endOffset": 7600
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -865,11 +1416,11 @@
             },
             {
                 "to": {
-                    "startLine": 56,
+                    "startLine": 85,
                     "startColumn": 4,
-                    "startOffset": 3720,
+                    "startOffset": 7605,
                     "endColumn": 64,
-                    "endOffset": 3780
+                    "endOffset": 7665
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -884,11 +1435,11 @@
             },
             {
                 "to": {
-                    "startLine": 57,
+                    "startLine": 86,
                     "startColumn": 4,
-                    "startOffset": 3785,
+                    "startOffset": 7670,
                     "endColumn": 62,
-                    "endOffset": 3843
+                    "endOffset": 7728
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -903,11 +1454,11 @@
             },
             {
                 "to": {
-                    "startLine": 58,
+                    "startLine": 87,
                     "startColumn": 4,
-                    "startOffset": 3848,
+                    "startOffset": 7733,
                     "endColumn": 58,
-                    "endOffset": 3902
+                    "endOffset": 7787
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -922,11 +1473,11 @@
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 88,
                     "startColumn": 4,
-                    "startOffset": 3907,
+                    "startOffset": 7792,
                     "endColumn": 66,
-                    "endOffset": 3969
+                    "endOffset": 7854
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -941,11 +1492,11 @@
             },
             {
                 "to": {
-                    "startLine": 60,
+                    "startLine": 89,
                     "startColumn": 4,
-                    "startOffset": 3974,
+                    "startOffset": 7859,
                     "endColumn": 62,
-                    "endOffset": 4032
+                    "endOffset": 7917
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -960,11 +1511,11 @@
             },
             {
                 "to": {
-                    "startLine": 61,
+                    "startLine": 90,
                     "startColumn": 4,
-                    "startOffset": 4037,
+                    "startOffset": 7922,
                     "endColumn": 60,
-                    "endOffset": 4093
+                    "endOffset": 7978
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -979,11 +1530,11 @@
             },
             {
                 "to": {
-                    "startLine": 62,
+                    "startLine": 91,
                     "startColumn": 4,
-                    "startOffset": 4098,
+                    "startOffset": 7983,
                     "endColumn": 61,
-                    "endOffset": 4155
+                    "endOffset": 8040
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -998,11 +1549,11 @@
             },
             {
                 "to": {
-                    "startLine": 63,
+                    "startLine": 92,
                     "startColumn": 4,
-                    "startOffset": 4160,
+                    "startOffset": 8045,
                     "endColumn": 46,
-                    "endOffset": 4202
+                    "endOffset": 8087
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1017,11 +1568,11 @@
             },
             {
                 "to": {
-                    "startLine": 64,
+                    "startLine": 93,
                     "startColumn": 4,
-                    "startOffset": 4207,
+                    "startOffset": 8092,
                     "endColumn": 41,
-                    "endOffset": 4244
+                    "endOffset": 8129
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1036,11 +1587,11 @@
             },
             {
                 "to": {
-                    "startLine": 65,
+                    "startLine": 94,
                     "startColumn": 4,
-                    "startOffset": 4249,
+                    "startOffset": 8134,
                     "endColumn": 61,
-                    "endOffset": 4306
+                    "endOffset": 8191
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1055,11 +1606,11 @@
             },
             {
                 "to": {
-                    "startLine": 66,
+                    "startLine": 95,
                     "startColumn": 4,
-                    "startOffset": 4311,
+                    "startOffset": 8196,
                     "endColumn": 60,
-                    "endOffset": 4367
+                    "endOffset": 8252
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1074,11 +1625,11 @@
             },
             {
                 "to": {
-                    "startLine": 67,
+                    "startLine": 96,
                     "startColumn": 4,
-                    "startOffset": 4372,
+                    "startOffset": 8257,
                     "endColumn": 72,
-                    "endOffset": 4440
+                    "endOffset": 8325
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1093,11 +1644,11 @@
             },
             {
                 "to": {
-                    "startLine": 68,
+                    "startLine": 97,
                     "startColumn": 4,
-                    "startOffset": 4445,
+                    "startOffset": 8330,
                     "endColumn": 73,
-                    "endOffset": 4514
+                    "endOffset": 8399
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1112,11 +1663,11 @@
             },
             {
                 "to": {
-                    "startLine": 69,
+                    "startLine": 98,
                     "startColumn": 4,
-                    "startOffset": 4519,
+                    "startOffset": 8404,
                     "endColumn": 66,
-                    "endOffset": 4581
+                    "endOffset": 8466
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1131,11 +1682,11 @@
             },
             {
                 "to": {
-                    "startLine": 70,
+                    "startLine": 99,
                     "startColumn": 4,
-                    "startOffset": 4586,
+                    "startOffset": 8471,
                     "endColumn": 46,
-                    "endOffset": 4628
+                    "endOffset": 8513
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1150,11 +1701,11 @@
             },
             {
                 "to": {
-                    "startLine": 71,
+                    "startLine": 100,
                     "startColumn": 4,
-                    "startOffset": 4633,
+                    "startOffset": 8518,
                     "endColumn": 51,
-                    "endOffset": 4680
+                    "endOffset": 8565
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1169,11 +1720,11 @@
             },
             {
                 "to": {
-                    "startLine": 72,
+                    "startLine": 101,
                     "startColumn": 4,
-                    "startOffset": 4685,
+                    "startOffset": 8570,
                     "endColumn": 48,
-                    "endOffset": 4729
+                    "endOffset": 8614
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1188,11 +1739,11 @@
             },
             {
                 "to": {
-                    "startLine": 73,
+                    "startLine": 102,
                     "startColumn": 4,
-                    "startOffset": 4734,
+                    "startOffset": 8619,
                     "endColumn": 72,
-                    "endOffset": 4802
+                    "endOffset": 8687
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1207,11 +1758,11 @@
             },
             {
                 "to": {
-                    "startLine": 74,
+                    "startLine": 103,
                     "startColumn": 4,
-                    "startOffset": 4807,
+                    "startOffset": 8692,
                     "endColumn": 68,
-                    "endOffset": 4871
+                    "endOffset": 8756
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1226,11 +1777,11 @@
             },
             {
                 "to": {
-                    "startLine": 75,
+                    "startLine": 104,
                     "startColumn": 4,
-                    "startOffset": 4876,
+                    "startOffset": 8761,
                     "endColumn": 72,
-                    "endOffset": 4944
+                    "endOffset": 8829
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1245,11 +1796,11 @@
             },
             {
                 "to": {
-                    "startLine": 76,
+                    "startLine": 105,
                     "startColumn": 4,
-                    "startOffset": 4949,
+                    "startOffset": 8834,
                     "endColumn": 62,
-                    "endOffset": 5007
+                    "endOffset": 8892
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1264,11 +1815,11 @@
             },
             {
                 "to": {
-                    "startLine": 77,
+                    "startLine": 106,
                     "startColumn": 4,
-                    "startOffset": 5012,
+                    "startOffset": 8897,
                     "endColumn": 76,
-                    "endOffset": 5084
+                    "endOffset": 8969
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1283,11 +1834,11 @@
             },
             {
                 "to": {
-                    "startLine": 78,
+                    "startLine": 107,
                     "startColumn": 4,
-                    "startOffset": 5089,
+                    "startOffset": 8974,
                     "endColumn": 175,
-                    "endOffset": 5260
+                    "endOffset": 9145
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1302,11 +1853,11 @@
             },
             {
                 "to": {
-                    "startLine": 79,
+                    "startLine": 108,
                     "startColumn": 4,
-                    "startOffset": 5265,
+                    "startOffset": 9150,
                     "endColumn": 55,
-                    "endOffset": 5316
+                    "endOffset": 9201
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1321,11 +1872,11 @@
             },
             {
                 "to": {
-                    "startLine": 80,
+                    "startLine": 109,
                     "startColumn": 4,
-                    "startOffset": 5321,
+                    "startOffset": 9206,
                     "endColumn": 76,
-                    "endOffset": 5393
+                    "endOffset": 9278
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1340,11 +1891,11 @@
             },
             {
                 "to": {
-                    "startLine": 81,
+                    "startLine": 110,
                     "startColumn": 4,
-                    "startOffset": 5398,
+                    "startOffset": 9283,
                     "endColumn": 57,
-                    "endOffset": 5451
+                    "endOffset": 9336
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1359,11 +1910,11 @@
             },
             {
                 "to": {
-                    "startLine": 82,
+                    "startLine": 111,
                     "startColumn": 4,
-                    "startOffset": 5456,
+                    "startOffset": 9341,
                     "endColumn": 48,
-                    "endOffset": 5500
+                    "endOffset": 9385
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.5/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1378,11 +1929,11 @@
             },
             {
                 "to": {
-                    "startLine": 83,
+                    "startLine": 112,
                     "startColumn": 4,
-                    "startOffset": 5505,
+                    "startOffset": 9390,
                     "endColumn": 47,
-                    "endOffset": 5548
+                    "endOffset": 9433
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1397,11 +1948,11 @@
             },
             {
                 "to": {
-                    "startLine": 84,
+                    "startLine": 113,
                     "startColumn": 4,
-                    "startOffset": 5553,
+                    "startOffset": 9438,
                     "endColumn": 48,
-                    "endOffset": 5597
+                    "endOffset": 9482
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1416,11 +1967,11 @@
             },
             {
                 "to": {
-                    "startLine": 85,
+                    "startLine": 114,
                     "startColumn": 4,
-                    "startOffset": 5602,
+                    "startOffset": 9487,
                     "endColumn": 52,
-                    "endOffset": 5650
+                    "endOffset": 9535
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1435,11 +1986,11 @@
             },
             {
                 "to": {
-                    "startLine": 86,
+                    "startLine": 115,
                     "startColumn": 4,
-                    "startOffset": 5655,
+                    "startOffset": 9540,
                     "endColumn": 59,
-                    "endOffset": 5710
+                    "endOffset": 9595
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.5/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1454,11 +2005,11 @@
             },
             {
                 "to": {
-                    "startLine": 87,
+                    "startLine": 116,
                     "startColumn": 4,
-                    "startOffset": 5715,
+                    "startOffset": 9600,
                     "endColumn": 52,
-                    "endOffset": 5763
+                    "endOffset": 9648
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.5/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1473,11 +2024,11 @@
             },
             {
                 "to": {
-                    "startLine": 88,
+                    "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 5768,
+                    "startOffset": 9653,
                     "endColumn": 40,
-                    "endOffset": 5804
+                    "endOffset": 9689
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1492,11 +2043,11 @@
             },
             {
                 "to": {
-                    "startLine": 89,
+                    "startLine": 118,
                     "startColumn": 4,
-                    "startOffset": 5809,
+                    "startOffset": 9694,
                     "endColumn": 39,
-                    "endOffset": 5844
+                    "endOffset": 9729
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1511,11 +2062,11 @@
             },
             {
                 "to": {
-                    "startLine": 90,
+                    "startLine": 119,
                     "startColumn": 4,
-                    "startOffset": 5849,
+                    "startOffset": 9734,
                     "endColumn": 63,
-                    "endOffset": 5908
+                    "endOffset": 9793
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1530,11 +2081,11 @@
             },
             {
                 "to": {
-                    "startLine": 91,
+                    "startLine": 120,
                     "startColumn": 4,
-                    "startOffset": 5913,
+                    "startOffset": 9798,
                     "endColumn": 63,
-                    "endOffset": 5972
+                    "endOffset": 9857
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1549,11 +2100,11 @@
             },
             {
                 "to": {
-                    "startLine": 92,
+                    "startLine": 121,
                     "startColumn": 4,
-                    "startOffset": 5977,
+                    "startOffset": 9862,
                     "endColumn": 41,
-                    "endOffset": 6014
+                    "endOffset": 9899
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1568,11 +2119,11 @@
             },
             {
                 "to": {
-                    "startLine": 93,
+                    "startLine": 122,
                     "startColumn": 4,
-                    "startOffset": 6019,
+                    "startOffset": 9904,
                     "endColumn": 61,
-                    "endOffset": 6076
+                    "endOffset": 9961
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1587,11 +2138,11 @@
             },
             {
                 "to": {
-                    "startLine": 94,
+                    "startLine": 123,
                     "startColumn": 4,
-                    "startOffset": 6081,
+                    "startOffset": 9966,
                     "endColumn": 103,
-                    "endOffset": 6180
+                    "endOffset": 10065
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1606,11 +2157,11 @@
             },
             {
                 "to": {
-                    "startLine": 95,
+                    "startLine": 124,
                     "startColumn": 4,
-                    "startOffset": 6185,
+                    "startOffset": 10070,
                     "endColumn": 148,
-                    "endOffset": 6329
+                    "endOffset": 10214
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.5/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1625,11 +2176,11 @@
             },
             {
                 "to": {
-                    "startLine": 96,
+                    "startLine": 125,
                     "startColumn": 4,
-                    "startOffset": 6334,
+                    "startOffset": 10219,
                     "endColumn": 60,
-                    "endOffset": 6390
+                    "endOffset": 10275
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.5/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1644,11 +2195,11 @@
             },
             {
                 "to": {
-                    "startLine": 97,
+                    "startLine": 126,
                     "startColumn": 4,
-                    "startOffset": 6395,
+                    "startOffset": 10280,
                     "endColumn": 73,
-                    "endOffset": 6464
+                    "endOffset": 10349
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1663,11 +2214,11 @@
             },
             {
                 "to": {
-                    "startLine": 98,
+                    "startLine": 127,
                     "startColumn": 4,
-                    "startOffset": 6469,
+                    "startOffset": 10354,
                     "endColumn": 48,
-                    "endOffset": 6513
+                    "endOffset": 10398
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",
@@ -1682,11 +2233,11 @@
             },
             {
                 "to": {
-                    "startLine": 99,
+                    "startLine": 128,
                     "startColumn": 4,
-                    "startOffset": 6518,
+                    "startOffset": 10403,
                     "endColumn": 73,
-                    "endOffset": 6587
+                    "endOffset": 10472
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-zh-rTW/values-zh-rTW.xml",

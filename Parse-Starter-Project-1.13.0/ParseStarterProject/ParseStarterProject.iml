@@ -79,6 +79,9 @@
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.github.kikoso/SwipeableCards/1.1-RELEASE/jars" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/8.4.0/jars" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/jars" />
+      <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-composer/1.0.3/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/jars" />
       <excludeFolder url="file://$MODULE_DIR$/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.5/jars" />
@@ -100,7 +103,9 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="design-22.2.1" level="project" />
     <orderEntry type="library" exported="" name="support-v4-23.2.0" level="project" />
+    <orderEntry type="library" exported="" name="play-services-base-8.4.0" level="project" />
     <orderEntry type="library" exported="" name="twitter-1.13.0" level="project" />
+    <orderEntry type="library" exported="" name="play-services-basement-8.4.0" level="project" />
     <orderEntry type="library" exported="" name="twitter-text-1.13.0" level="project" />
     <orderEntry type="library" exported="" name="bolts-applinks-1.3.0" level="project" />
     <orderEntry type="library" exported="" name="tweet-composer-1.0.3" level="project" />
@@ -115,6 +120,7 @@
     <orderEntry type="library" exported="" name="twitter-core-1.6.5" level="project" />
     <orderEntry type="library" exported="" name="support-annotations-23.2.0" level="project" />
     <orderEntry type="library" exported="" name="tweet-ui-1.10.0" level="project" />
+    <orderEntry type="library" exported="" name="play-services-auth-8.4.0" level="project" />
     <orderEntry type="library" exported="" name="facebook-android-sdk-4.10.0" level="project" />
     <orderEntry type="library" exported="" name="cardview-v7-23.2.0" level="project" />
     <orderEntry type="library" exported="" name="gson-2.3" level="project" />

@@ -24,38 +24,38 @@ public final class R {
 		public static final int card_bg = 0x7f02003e;
 		public static final int card_scatter = 0x7f02003f;
 		public static final int cats = 0x7f020040;
-		public static final int dislike = 0x7f020066;
-		public static final int heart = 0x7f020069;
-		public static final int ic_launcher = 0x7f02006a;
-		public static final int ic_like = 0x7f02006b;
-		public static final int like = 0x7f02006d;
-		public static final int people = 0x7f020079;
-		public static final int picture1 = 0x7f02007a;
-		public static final int picture2 = 0x7f02007b;
-		public static final int picture3 = 0x7f02007c;
-		public static final int slideshow = 0x7f02007f;
+		public static final int dislike = 0x7f020090;
+		public static final int heart = 0x7f020096;
+		public static final int ic_launcher = 0x7f020097;
+		public static final int ic_like = 0x7f020098;
+		public static final int like = 0x7f02009a;
+		public static final int people = 0x7f0200a6;
+		public static final int picture1 = 0x7f0200a7;
+		public static final int picture2 = 0x7f0200a8;
+		public static final int picture3 = 0x7f0200a9;
+		public static final int slideshow = 0x7f0200ac;
 	}
 	public static final class id {
-		public static final int btn_sep_1 = 0x7f0e00b5;
-		public static final int btn_sep_2 = 0x7f0e00ca;
-		public static final int description = 0x7f0e00c8;
+		public static final int btn_sep_1 = 0x7f0e00ba;
+		public static final int btn_sep_2 = 0x7f0e00d0;
+		public static final int description = 0x7f0e00ce;
 		public static final int disordered = 0x7f0e0019;
-		public static final int divider_bottom = 0x7f0e00b6;
-		public static final int divider_title = 0x7f0e00b3;
-		public static final int global_container = 0x7f0e00b1;
-		public static final int image = 0x7f0e0050;
-		public static final int image_1 = 0x7f0e00b7;
-		public static final int image_2 = 0x7f0e00c9;
+		public static final int divider_bottom = 0x7f0e00bb;
+		public static final int divider_title = 0x7f0e00b8;
+		public static final int global_container = 0x7f0e00b6;
+		public static final int image = 0x7f0e0057;
+		public static final int image_1 = 0x7f0e00bc;
+		public static final int image_2 = 0x7f0e00cf;
 		public static final int ordered = 0x7f0e001a;
-		public static final int title = 0x7f0e0054;
+		public static final int title = 0x7f0e005b;
 	}
 	public static final class layout {
 		public static final int std_card_inner = 0x7f040048;
 	}
 	public static final class string {
-		public static final int action_settings = 0x7f07005e;
-		public static final int app_name = 0x7f07005f;
-		public static final int hello_world = 0x7f07006d;
+		public static final int action_settings = 0x7f07007b;
+		public static final int app_name = 0x7f07007c;
+		public static final int hello_world = 0x7f07008c;
 	}
 	public static final class styleable {
 		public static final int[] CardContainer = { 0x010100af, 0x7f01002a };

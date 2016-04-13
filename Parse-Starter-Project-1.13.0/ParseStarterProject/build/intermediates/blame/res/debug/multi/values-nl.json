@@ -6,10 +6,10 @@
                 "to": {
                     "startLine": 2,
                     "startColumn": 4,
-                    "startOffset": 55,
+                    "startOffset": 105,
                     "endLine": 5,
                     "endColumn": 14,
-                    "endOffset": 182
+                    "endOffset": 232
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-nl/values-nl.xml",
@@ -27,10 +27,10 @@
                 "to": {
                     "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 187,
+                    "startOffset": 237,
                     "endLine": 9,
                     "endColumn": 14,
-                    "endOffset": 313
+                    "endOffset": 363
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-nl/values-nl.xml",
@@ -48,10 +48,10 @@
                 "to": {
                     "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 318,
+                    "startOffset": 368,
                     "endLine": 13,
                     "endColumn": 14,
-                    "endOffset": 444
+                    "endOffset": 494
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-nl/values-nl.xml",
@@ -69,9 +69,9 @@
                 "to": {
                     "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 449,
+                    "startOffset": 499,
                     "endColumn": 117,
-                    "endOffset": 562
+                    "endOffset": 612
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-nl/values-nl.xml",
@@ -88,9 +88,9 @@
                 "to": {
                     "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 567,
+                    "startOffset": 617,
                     "endColumn": 104,
-                    "endOffset": 667
+                    "endOffset": 717
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-nl/values-nl.xml",
@@ -107,9 +107,9 @@
                 "to": {
                     "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 672,
+                    "startOffset": 722,
                     "endColumn": 106,
-                    "endOffset": 774
+                    "endOffset": 824
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-nl/values-nl.xml",
@@ -126,9 +126,9 @@
                 "to": {
                     "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 779,
+                    "startOffset": 829,
                     "endColumn": 85,
-                    "endOffset": 860
+                    "endOffset": 910
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-nl/values-nl.xml",
@@ -145,9 +145,9 @@
                 "to": {
                     "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 865,
+                    "startOffset": 915,
                     "endColumn": 107,
-                    "endOffset": 968
+                    "endOffset": 1018
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-nl/values-nl.xml",
@@ -164,9 +164,9 @@
                 "to": {
                     "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 973,
+                    "startOffset": 1023,
                     "endColumn": 119,
-                    "endOffset": 1088
+                    "endOffset": 1138
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-nl/values-nl.xml",
@@ -183,9 +183,9 @@
                 "to": {
                     "startLine": 20,
                     "startColumn": 4,
-                    "startOffset": 1093,
+                    "startOffset": 1143,
                     "endColumn": 110,
-                    "endOffset": 1199
+                    "endOffset": 1249
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-nl/values-nl.xml",
@@ -202,9 +202,9 @@
                 "to": {
                     "startLine": 21,
                     "startColumn": 4,
-                    "startOffset": 1204,
+                    "startOffset": 1254,
                     "endColumn": 103,
-                    "endOffset": 1303
+                    "endOffset": 1353
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-nl/values-nl.xml",
@@ -221,9 +221,9 @@
                 "to": {
                     "startLine": 22,
                     "startColumn": 4,
-                    "startOffset": 1308,
+                    "startOffset": 1358,
                     "endColumn": 98,
-                    "endOffset": 1402
+                    "endOffset": 1452
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-nl/values-nl.xml",
@@ -240,9 +240,9 @@
                 "to": {
                     "startLine": 23,
                     "startColumn": 4,
-                    "startOffset": 1407,
+                    "startOffset": 1457,
                     "endColumn": 114,
-                    "endOffset": 1517
+                    "endOffset": 1567
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-nl/values-nl.xml",
@@ -259,9 +259,9 @@
                 "to": {
                     "startLine": 24,
                     "startColumn": 4,
-                    "startOffset": 1522,
+                    "startOffset": 1572,
                     "endColumn": 112,
-                    "endOffset": 1630
+                    "endOffset": 1680
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-nl/values-nl.xml",
@@ -278,9 +278,9 @@
                 "to": {
                     "startLine": 25,
                     "startColumn": 4,
-                    "startOffset": 1635,
+                    "startOffset": 1685,
                     "endColumn": 102,
-                    "endOffset": 1733
+                    "endOffset": 1783
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-nl/values-nl.xml",
@@ -297,9 +297,9 @@
                 "to": {
                     "startLine": 26,
                     "startColumn": 4,
-                    "startOffset": 1738,
+                    "startOffset": 1788,
                     "endColumn": 117,
-                    "endOffset": 1851
+                    "endOffset": 1901
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/res/values-nl/values-nl.xml",
@@ -316,9 +316,9 @@
                 "to": {
                     "startLine": 27,
                     "startColumn": 4,
-                    "startOffset": 1856,
+                    "startOffset": 1906,
                     "endColumn": 127,
-                    "endOffset": 1979
+                    "endOffset": 2029
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-nl/values-nl.xml",
@@ -335,9 +335,9 @@
                 "to": {
                     "startLine": 28,
                     "startColumn": 4,
-                    "startOffset": 1984,
+                    "startOffset": 2034,
                     "endColumn": 129,
-                    "endOffset": 2109
+                    "endOffset": 2159
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-nl/values-nl.xml",
@@ -354,9 +354,9 @@
                 "to": {
                     "startLine": 29,
                     "startColumn": 4,
-                    "startOffset": 2114,
+                    "startOffset": 2164,
                     "endColumn": 141,
-                    "endOffset": 2251
+                    "endOffset": 2301
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-nl/values-nl.xml",
@@ -373,9 +373,9 @@
                 "to": {
                     "startLine": 30,
                     "startColumn": 4,
-                    "startOffset": 2256,
+                    "startOffset": 2306,
                     "endColumn": 94,
-                    "endOffset": 2346
+                    "endOffset": 2396
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-nl/values-nl.xml",
@@ -392,9 +392,9 @@
                 "to": {
                     "startLine": 31,
                     "startColumn": 4,
-                    "startOffset": 2351,
+                    "startOffset": 2401,
                     "endColumn": 71,
-                    "endOffset": 2418
+                    "endOffset": 2468
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-nl/values-nl.xml",
@@ -411,9 +411,9 @@
                 "to": {
                     "startLine": 32,
                     "startColumn": 4,
-                    "startOffset": 2423,
+                    "startOffset": 2473,
                     "endColumn": 75,
-                    "endOffset": 2494
+                    "endOffset": 2544
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-nl/values-nl.xml",
@@ -430,9 +430,9 @@
                 "to": {
                     "startLine": 33,
                     "startColumn": 4,
-                    "startOffset": 2499,
+                    "startOffset": 2549,
                     "endColumn": 55,
-                    "endOffset": 2550
+                    "endOffset": 2600
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-nl/values-nl.xml",
@@ -449,9 +449,9 @@
                 "to": {
                     "startLine": 34,
                     "startColumn": 4,
-                    "startOffset": 2555,
+                    "startOffset": 2605,
                     "endColumn": 74,
-                    "endOffset": 2625
+                    "endOffset": 2675
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-nl/values-nl.xml",
@@ -468,9 +468,9 @@
                 "to": {
                     "startLine": 35,
                     "startColumn": 4,
-                    "startOffset": 2630,
+                    "startOffset": 2680,
                     "endColumn": 74,
-                    "endOffset": 2700
+                    "endOffset": 2750
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-nl/values-nl.xml",
@@ -487,9 +487,9 @@
                 "to": {
                     "startLine": 36,
                     "startColumn": 4,
-                    "startOffset": 2705,
+                    "startOffset": 2755,
                     "endColumn": 92,
-                    "endOffset": 2793
+                    "endOffset": 2843
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-nl/values-nl.xml",
@@ -506,9 +506,9 @@
                 "to": {
                     "startLine": 37,
                     "startColumn": 4,
-                    "startOffset": 2798,
+                    "startOffset": 2848,
                     "endColumn": 74,
-                    "endOffset": 2868
+                    "endOffset": 2918
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-nl/values-nl.xml",
@@ -525,9 +525,9 @@
                 "to": {
                     "startLine": 38,
                     "startColumn": 4,
-                    "startOffset": 2873,
+                    "startOffset": 2923,
                     "endColumn": 74,
-                    "endOffset": 2943
+                    "endOffset": 2993
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-nl/values-nl.xml",
@@ -544,9 +544,9 @@
                 "to": {
                     "startLine": 39,
                     "startColumn": 4,
-                    "startOffset": 2948,
+                    "startOffset": 2998,
                     "endColumn": 83,
-                    "endOffset": 3027
+                    "endOffset": 3077
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-nl/values-nl.xml",
@@ -563,9 +563,9 @@
                 "to": {
                     "startLine": 40,
                     "startColumn": 4,
-                    "startOffset": 3032,
+                    "startOffset": 3082,
                     "endColumn": 98,
-                    "endOffset": 3126
+                    "endOffset": 3176
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-nl/values-nl.xml",
@@ -582,9 +582,9 @@
                 "to": {
                     "startLine": 41,
                     "startColumn": 4,
-                    "startOffset": 3131,
+                    "startOffset": 3181,
                     "endColumn": 67,
-                    "endOffset": 3194
+                    "endOffset": 3244
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-nl/values-nl.xml",
@@ -601,9 +601,9 @@
                 "to": {
                     "startLine": 42,
                     "startColumn": 4,
-                    "startOffset": 3199,
+                    "startOffset": 3249,
                     "endColumn": 64,
-                    "endOffset": 3259
+                    "endOffset": 3309
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-nl/values-nl.xml",
@@ -620,9 +620,9 @@
                 "to": {
                     "startLine": 43,
                     "startColumn": 4,
-                    "startOffset": 3264,
+                    "startOffset": 3314,
                     "endColumn": 131,
-                    "endOffset": 3391
+                    "endOffset": 3441
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-nl/values-nl.xml",
@@ -639,9 +639,560 @@
                 "to": {
                     "startLine": 44,
                     "startColumn": 4,
-                    "startOffset": 3396,
+                    "startOffset": 3446,
+                    "endColumn": 274,
+                    "endOffset": 3716
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 3599,
+                        "endColumn": 278,
+                        "endOffset": 3873
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3721,
+                    "endColumn": 132,
+                    "endOffset": 3849
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 1345,
+                        "endColumn": 132,
+                        "endOffset": 1473
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3854,
+                    "endColumn": 186,
+                    "endOffset": 4036
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 1154,
+                        "endColumn": 190,
+                        "endOffset": 1340
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4041,
+                    "endColumn": 131,
+                    "endOffset": 4168
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 1022,
+                        "endColumn": 131,
+                        "endOffset": 1149
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 4173,
+                    "endColumn": 129,
+                    "endOffset": 4298
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 892,
+                        "endColumn": 129,
+                        "endOffset": 1017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 4303,
+                    "endColumn": 224,
+                    "endOffset": 4523
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 435,
+                        "endColumn": 228,
+                        "endOffset": 659
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 4528,
+                    "endColumn": 223,
+                    "endOffset": 4747
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 664,
+                        "endColumn": 227,
+                        "endOffset": 887
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 4752,
+                    "endColumn": 128,
+                    "endOffset": 4876
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 306,
+                        "endColumn": 128,
+                        "endOffset": 430
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 52,
+                    "startColumn": 4,
+                    "startOffset": 4881,
+                    "endColumn": 182,
+                    "endOffset": 5059
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 2816,
+                        "endColumn": 182,
+                        "endOffset": 2994
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 5064,
+                    "endColumn": 121,
+                    "endOffset": 5181
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 2694,
+                        "endColumn": 121,
+                        "endOffset": 2811
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 5186,
+                    "endColumn": 188,
+                    "endOffset": 5370
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 2505,
+                        "endColumn": 188,
+                        "endOffset": 2689
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 5375,
+                    "endColumn": 117,
+                    "endOffset": 5488
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 2387,
+                        "endColumn": 117,
+                        "endOffset": 2500
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 5493,
+                    "endColumn": 135,
+                    "endOffset": 5624
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 135,
+                        "endOffset": 301
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 5629,
+                    "endColumn": 178,
+                    "endOffset": 5803
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 4301,
+                        "endColumn": 178,
+                        "endOffset": 4475
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 5808,
+                    "endColumn": 126,
+                    "endOffset": 5930
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 4174,
+                        "endColumn": 126,
+                        "endOffset": 4296
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 5935,
+                    "endColumn": 171,
+                    "endOffset": 6102
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 4002,
+                        "endColumn": 171,
+                        "endOffset": 4169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 6107,
+                    "endColumn": 123,
+                    "endOffset": 6226
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 3878,
+                        "endColumn": 123,
+                        "endOffset": 3997
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 6231,
+                    "endColumn": 266,
+                    "endOffset": 6493
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/8.4.0/res/values-nl/common_strings.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 170,
+                        "endColumn": 270,
+                        "endOffset": 436
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 6498,
+                    "endColumn": 266,
+                    "endOffset": 6760
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 3123,
+                        "endColumn": 270,
+                        "endOffset": 3389
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 6765,
+                    "endColumn": 123,
+                    "endOffset": 6884
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2999,
+                        "endColumn": 123,
+                        "endOffset": 3118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 6889,
+                    "endColumn": 107,
+                    "endOffset": 6992
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 3394,
+                        "endColumn": 107,
+                        "endOffset": 3497
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 6997,
+                    "endColumn": 199,
+                    "endOffset": 7192
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1606,
+                        "endColumn": 203,
+                        "endOffset": 1805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 66,
+                    "startColumn": 4,
+                    "startOffset": 7197,
+                    "endColumn": 127,
+                    "endOffset": 7320
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1478,
+                        "endColumn": 127,
+                        "endOffset": 1601
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 67,
+                    "startColumn": 4,
+                    "startOffset": 7325,
+                    "endColumn": 221,
+                    "endOffset": 7542
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 2161,
+                        "endColumn": 225,
+                        "endOffset": 2382
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 68,
+                    "startColumn": 4,
+                    "startOffset": 7547,
+                    "endColumn": 138,
+                    "endOffset": 7681
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 2022,
+                        "endColumn": 138,
+                        "endOffset": 2156
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 69,
+                    "startColumn": 4,
+                    "startOffset": 7686,
+                    "endColumn": 211,
+                    "endOffset": 7893
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1810,
+                        "endColumn": 211,
+                        "endOffset": 2017
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 70,
+                    "startColumn": 4,
+                    "startOffset": 7898,
+                    "endColumn": 96,
+                    "endOffset": 7990
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 3502,
+                        "endColumn": 96,
+                        "endOffset": 3594
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 71,
+                    "startColumn": 4,
+                    "startOffset": 7995,
+                    "endColumn": 92,
+                    "endOffset": 8083
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 4480,
+                        "endColumn": 92,
+                        "endOffset": 4568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 72,
+                    "startColumn": 4,
+                    "startOffset": 8088,
+                    "endColumn": 108,
+                    "endOffset": 8192
+                },
+                "from": {
+                    "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/8.4.0/res/values-nl/base_strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 4573,
+                        "endColumn": 108,
+                        "endOffset": 4677
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 73,
+                    "startColumn": 4,
+                    "startOffset": 8197,
                     "endColumn": 48,
-                    "endOffset": 3440
+                    "endOffset": 8241
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -656,11 +1207,11 @@
             },
             {
                 "to": {
-                    "startLine": 45,
+                    "startLine": 74,
                     "startColumn": 4,
-                    "startOffset": 3445,
+                    "startOffset": 8246,
                     "endColumn": 49,
-                    "endOffset": 3490
+                    "endOffset": 8291
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -675,11 +1226,11 @@
             },
             {
                 "to": {
-                    "startLine": 46,
+                    "startLine": 75,
                     "startColumn": 4,
-                    "startOffset": 3495,
+                    "startOffset": 8296,
                     "endColumn": 68,
-                    "endOffset": 3559
+                    "endOffset": 8360
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -694,11 +1245,11 @@
             },
             {
                 "to": {
-                    "startLine": 47,
+                    "startLine": 76,
                     "startColumn": 4,
-                    "startOffset": 3564,
+                    "startOffset": 8365,
                     "endColumn": 110,
-                    "endOffset": 3670
+                    "endOffset": 8471
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -713,11 +1264,11 @@
             },
             {
                 "to": {
-                    "startLine": 48,
+                    "startLine": 77,
                     "startColumn": 4,
-                    "startOffset": 3675,
+                    "startOffset": 8476,
                     "endColumn": 97,
-                    "endOffset": 3768
+                    "endOffset": 8569
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -732,11 +1283,11 @@
             },
             {
                 "to": {
-                    "startLine": 49,
+                    "startLine": 78,
                     "startColumn": 4,
-                    "startOffset": 3773,
+                    "startOffset": 8574,
                     "endColumn": 114,
-                    "endOffset": 3883
+                    "endOffset": 8684
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -751,11 +1302,11 @@
             },
             {
                 "to": {
-                    "startLine": 50,
+                    "startLine": 79,
                     "startColumn": 4,
-                    "startOffset": 3888,
+                    "startOffset": 8689,
                     "endColumn": 115,
-                    "endOffset": 3999
+                    "endOffset": 8800
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -770,11 +1321,11 @@
             },
             {
                 "to": {
-                    "startLine": 51,
+                    "startLine": 80,
                     "startColumn": 4,
-                    "startOffset": 4004,
+                    "startOffset": 8805,
                     "endColumn": 49,
-                    "endOffset": 4049
+                    "endOffset": 8850
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -789,11 +1340,11 @@
             },
             {
                 "to": {
-                    "startLine": 52,
+                    "startLine": 81,
                     "startColumn": 4,
-                    "startOffset": 4054,
+                    "startOffset": 8855,
                     "endColumn": 76,
-                    "endOffset": 4126
+                    "endOffset": 8927
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -808,11 +1359,11 @@
             },
             {
                 "to": {
-                    "startLine": 53,
+                    "startLine": 82,
                     "startColumn": 4,
-                    "startOffset": 4131,
+                    "startOffset": 8932,
                     "endColumn": 76,
-                    "endOffset": 4203
+                    "endOffset": 9004
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -827,11 +1378,11 @@
             },
             {
                 "to": {
-                    "startLine": 54,
+                    "startLine": 83,
                     "startColumn": 4,
-                    "startOffset": 4208,
+                    "startOffset": 9009,
                     "endColumn": 51,
-                    "endOffset": 4255
+                    "endOffset": 9056
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -846,11 +1397,11 @@
             },
             {
                 "to": {
-                    "startLine": 55,
+                    "startLine": 84,
                     "startColumn": 4,
-                    "startOffset": 4260,
+                    "startOffset": 9061,
                     "endColumn": 44,
-                    "endOffset": 4300
+                    "endOffset": 9101
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -865,11 +1416,11 @@
             },
             {
                 "to": {
-                    "startLine": 56,
+                    "startLine": 85,
                     "startColumn": 4,
-                    "startOffset": 4305,
+                    "startOffset": 9106,
                     "endColumn": 69,
-                    "endOffset": 4370
+                    "endOffset": 9171
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -884,11 +1435,11 @@
             },
             {
                 "to": {
-                    "startLine": 57,
+                    "startLine": 86,
                     "startColumn": 4,
-                    "startOffset": 4375,
+                    "startOffset": 9176,
                     "endColumn": 74,
-                    "endOffset": 4445
+                    "endOffset": 9246
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -903,11 +1454,11 @@
             },
             {
                 "to": {
-                    "startLine": 58,
+                    "startLine": 87,
                     "startColumn": 4,
-                    "startOffset": 4450,
+                    "startOffset": 9251,
                     "endColumn": 70,
-                    "endOffset": 4516
+                    "endOffset": 9317
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -922,11 +1473,11 @@
             },
             {
                 "to": {
-                    "startLine": 59,
+                    "startLine": 88,
                     "startColumn": 4,
-                    "startOffset": 4521,
+                    "startOffset": 9322,
                     "endColumn": 92,
-                    "endOffset": 4609
+                    "endOffset": 9410
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -941,11 +1492,11 @@
             },
             {
                 "to": {
-                    "startLine": 60,
+                    "startLine": 89,
                     "startColumn": 4,
-                    "startOffset": 4614,
+                    "startOffset": 9415,
                     "endColumn": 90,
-                    "endOffset": 4700
+                    "endOffset": 9501
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -960,11 +1511,11 @@
             },
             {
                 "to": {
-                    "startLine": 61,
+                    "startLine": 90,
                     "startColumn": 4,
-                    "startOffset": 4705,
+                    "startOffset": 9506,
                     "endColumn": 81,
-                    "endOffset": 4782
+                    "endOffset": 9583
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -979,11 +1530,11 @@
             },
             {
                 "to": {
-                    "startLine": 62,
+                    "startLine": 91,
                     "startColumn": 4,
-                    "startOffset": 4787,
+                    "startOffset": 9588,
                     "endColumn": 104,
-                    "endOffset": 4887
+                    "endOffset": 9688
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -998,11 +1549,11 @@
             },
             {
                 "to": {
-                    "startLine": 63,
+                    "startLine": 92,
                     "startColumn": 4,
-                    "startOffset": 4892,
+                    "startOffset": 9693,
                     "endColumn": 49,
-                    "endOffset": 4937
+                    "endOffset": 9738
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -1017,11 +1568,11 @@
             },
             {
                 "to": {
-                    "startLine": 64,
+                    "startLine": 93,
                     "startColumn": 4,
-                    "startOffset": 4942,
+                    "startOffset": 9743,
                     "endColumn": 42,
-                    "endOffset": 4980
+                    "endOffset": 9781
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -1036,11 +1587,11 @@
             },
             {
                 "to": {
-                    "startLine": 65,
+                    "startLine": 94,
                     "startColumn": 4,
-                    "startOffset": 4985,
+                    "startOffset": 9786,
                     "endColumn": 74,
-                    "endOffset": 5055
+                    "endOffset": 9856
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -1055,11 +1606,11 @@
             },
             {
                 "to": {
-                    "startLine": 66,
+                    "startLine": 95,
                     "startColumn": 4,
-                    "startOffset": 5060,
+                    "startOffset": 9861,
                     "endColumn": 76,
-                    "endOffset": 5132
+                    "endOffset": 9933
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -1074,11 +1625,11 @@
             },
             {
                 "to": {
-                    "startLine": 67,
+                    "startLine": 96,
                     "startColumn": 4,
-                    "startOffset": 5137,
+                    "startOffset": 9938,
                     "endColumn": 102,
-                    "endOffset": 5235
+                    "endOffset": 10036
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -1093,11 +1644,11 @@
             },
             {
                 "to": {
-                    "startLine": 68,
+                    "startLine": 97,
                     "startColumn": 4,
-                    "startOffset": 5240,
+                    "startOffset": 10041,
                     "endColumn": 88,
-                    "endOffset": 5324
+                    "endOffset": 10125
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -1112,11 +1663,11 @@
             },
             {
                 "to": {
-                    "startLine": 69,
+                    "startLine": 98,
                     "startColumn": 4,
-                    "startOffset": 5329,
+                    "startOffset": 10130,
                     "endColumn": 93,
-                    "endOffset": 5418
+                    "endOffset": 10219
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -1131,11 +1682,11 @@
             },
             {
                 "to": {
-                    "startLine": 70,
+                    "startLine": 99,
                     "startColumn": 4,
-                    "startOffset": 5423,
+                    "startOffset": 10224,
                     "endColumn": 52,
-                    "endOffset": 5471
+                    "endOffset": 10272
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -1150,11 +1701,11 @@
             },
             {
                 "to": {
-                    "startLine": 71,
+                    "startLine": 100,
                     "startColumn": 4,
-                    "startOffset": 5476,
+                    "startOffset": 10277,
                     "endColumn": 63,
-                    "endOffset": 5535
+                    "endOffset": 10336
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -1169,11 +1720,11 @@
             },
             {
                 "to": {
-                    "startLine": 72,
+                    "startLine": 101,
                     "startColumn": 4,
-                    "startOffset": 5540,
+                    "startOffset": 10341,
                     "endColumn": 63,
-                    "endOffset": 5599
+                    "endOffset": 10400
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -1188,11 +1739,11 @@
             },
             {
                 "to": {
-                    "startLine": 73,
+                    "startLine": 102,
                     "startColumn": 4,
-                    "startOffset": 5604,
+                    "startOffset": 10405,
                     "endColumn": 99,
-                    "endOffset": 5699
+                    "endOffset": 10500
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -1207,11 +1758,11 @@
             },
             {
                 "to": {
-                    "startLine": 74,
+                    "startLine": 103,
                     "startColumn": 4,
-                    "startOffset": 5704,
+                    "startOffset": 10505,
                     "endColumn": 93,
-                    "endOffset": 5793
+                    "endOffset": 10594
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -1226,11 +1777,11 @@
             },
             {
                 "to": {
-                    "startLine": 75,
+                    "startLine": 104,
                     "startColumn": 4,
-                    "startOffset": 5798,
+                    "startOffset": 10599,
                     "endColumn": 109,
-                    "endOffset": 5903
+                    "endOffset": 10704
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -1245,11 +1796,11 @@
             },
             {
                 "to": {
-                    "startLine": 76,
+                    "startLine": 105,
                     "startColumn": 4,
-                    "startOffset": 5908,
+                    "startOffset": 10709,
                     "endColumn": 84,
-                    "endOffset": 5988
+                    "endOffset": 10789
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -1264,11 +1815,11 @@
             },
             {
                 "to": {
-                    "startLine": 77,
+                    "startLine": 106,
                     "startColumn": 4,
-                    "startOffset": 5993,
+                    "startOffset": 10794,
                     "endColumn": 122,
-                    "endOffset": 6111
+                    "endOffset": 10912
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -1283,11 +1834,11 @@
             },
             {
                 "to": {
-                    "startLine": 78,
+                    "startLine": 107,
                     "startColumn": 4,
-                    "startOffset": 6116,
+                    "startOffset": 10917,
                     "endColumn": 299,
-                    "endOffset": 6411
+                    "endOffset": 11212
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -1302,11 +1853,11 @@
             },
             {
                 "to": {
-                    "startLine": 79,
+                    "startLine": 108,
                     "startColumn": 4,
-                    "startOffset": 6416,
+                    "startOffset": 11217,
                     "endColumn": 67,
-                    "endOffset": 6479
+                    "endOffset": 11280
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -1321,11 +1872,11 @@
             },
             {
                 "to": {
-                    "startLine": 80,
+                    "startLine": 109,
                     "startColumn": 4,
-                    "startOffset": 6484,
+                    "startOffset": 11285,
                     "endColumn": 120,
-                    "endOffset": 6600
+                    "endOffset": 11401
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.digits.sdk.android/digits/1.10.0/res/values-nl/values-nl.xml",
@@ -1340,11 +1891,11 @@
             },
             {
                 "to": {
-                    "startLine": 81,
+                    "startLine": 110,
                     "startColumn": 4,
-                    "startOffset": 6605,
+                    "startOffset": 11406,
                     "endColumn": 64,
-                    "endOffset": 6665
+                    "endOffset": 11466
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.10.0/res/values-nl/values-nl.xml",
@@ -1359,11 +1910,11 @@
             },
             {
                 "to": {
-                    "startLine": 82,
+                    "startLine": 111,
                     "startColumn": 4,
-                    "startOffset": 6670,
+                    "startOffset": 11471,
                     "endColumn": 54,
-                    "endOffset": 6720
+                    "endOffset": 11521
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.5/res/values-nl/values-nl.xml",
@@ -1378,11 +1929,11 @@
             },
             {
                 "to": {
-                    "startLine": 83,
+                    "startLine": 112,
                     "startColumn": 4,
-                    "startOffset": 6725,
+                    "startOffset": 11526,
                     "endColumn": 60,
-                    "endOffset": 6781
+                    "endOffset": 11582
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-nl/values-nl.xml",
@@ -1397,11 +1948,11 @@
             },
             {
                 "to": {
-                    "startLine": 84,
+                    "startLine": 113,
                     "startColumn": 4,
-                    "startOffset": 6786,
+                    "startOffset": 11587,
                     "endColumn": 58,
-                    "endOffset": 6840
+                    "endOffset": 11641
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-nl/values-nl.xml",
@@ -1416,11 +1967,11 @@
             },
             {
                 "to": {
-                    "startLine": 85,
+                    "startLine": 114,
                     "startColumn": 4,
-                    "startOffset": 6845,
+                    "startOffset": 11646,
                     "endColumn": 57,
-                    "endOffset": 6898
+                    "endOffset": 11699
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-nl/values-nl.xml",
@@ -1435,11 +1986,11 @@
             },
             {
                 "to": {
-                    "startLine": 86,
+                    "startLine": 115,
                     "startColumn": 4,
-                    "startOffset": 6903,
+                    "startOffset": 11704,
                     "endColumn": 66,
-                    "endOffset": 6965
+                    "endOffset": 11766
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.5/res/values-nl/values-nl.xml",
@@ -1454,11 +2005,11 @@
             },
             {
                 "to": {
-                    "startLine": 87,
+                    "startLine": 116,
                     "startColumn": 4,
-                    "startOffset": 6970,
+                    "startOffset": 11771,
                     "endColumn": 55,
-                    "endOffset": 7021
+                    "endOffset": 11822
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.5/res/values-nl/values-nl.xml",
@@ -1473,11 +2024,11 @@
             },
             {
                 "to": {
-                    "startLine": 88,
+                    "startLine": 117,
                     "startColumn": 4,
-                    "startOffset": 7026,
+                    "startOffset": 11827,
                     "endColumn": 46,
-                    "endOffset": 7068
+                    "endOffset": 11869
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-nl/values-nl.xml",
@@ -1492,11 +2043,11 @@
             },
             {
                 "to": {
-                    "startLine": 89,
+                    "startLine": 118,
                     "startColumn": 4,
-                    "startOffset": 7073,
+                    "startOffset": 11874,
                     "endColumn": 45,
-                    "endOffset": 7114
+                    "endOffset": 11915
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-nl/values-nl.xml",
@@ -1511,11 +2062,11 @@
             },
             {
                 "to": {
-                    "startLine": 90,
+                    "startLine": 119,
                     "startColumn": 4,
-                    "startOffset": 7119,
+                    "startOffset": 11920,
                     "endColumn": 63,
-                    "endOffset": 7178
+                    "endOffset": 11979
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-nl/values-nl.xml",
@@ -1530,11 +2081,11 @@
             },
             {
                 "to": {
-                    "startLine": 91,
+                    "startLine": 120,
                     "startColumn": 4,
-                    "startOffset": 7183,
+                    "startOffset": 11984,
                     "endColumn": 64,
-                    "endOffset": 7243
+                    "endOffset": 12044
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-nl/values-nl.xml",
@@ -1549,11 +2100,11 @@
             },
             {
                 "to": {
-                    "startLine": 92,
+                    "startLine": 121,
                     "startColumn": 4,
-                    "startOffset": 7248,
+                    "startOffset": 12049,
                     "endColumn": 55,
-                    "endOffset": 7299
+                    "endOffset": 12100
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-nl/values-nl.xml",
@@ -1568,11 +2119,11 @@
             },
             {
                 "to": {
-                    "startLine": 93,
+                    "startLine": 122,
                     "startColumn": 4,
-                    "startOffset": 7304,
+                    "startOffset": 12105,
                     "endColumn": 71,
-                    "endOffset": 7371
+                    "endOffset": 12172
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-nl/values-nl.xml",
@@ -1587,11 +2138,11 @@
             },
             {
                 "to": {
-                    "startLine": 94,
+                    "startLine": 123,
                     "startColumn": 4,
-                    "startOffset": 7376,
+                    "startOffset": 12177,
                     "endColumn": 117,
-                    "endOffset": 7489
+                    "endOffset": 12290
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-nl/values-nl.xml",
@@ -1606,11 +2157,11 @@
             },
             {
                 "to": {
-                    "startLine": 95,
+                    "startLine": 124,
                     "startColumn": 4,
-                    "startOffset": 7494,
+                    "startOffset": 12295,
                     "endColumn": 258,
-                    "endOffset": 7748
+                    "endOffset": 12549
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.5/res/values-nl/values-nl.xml",
@@ -1625,11 +2176,11 @@
             },
             {
                 "to": {
-                    "startLine": 96,
+                    "startLine": 125,
                     "startColumn": 4,
-                    "startOffset": 7753,
+                    "startOffset": 12554,
                     "endColumn": 67,
-                    "endOffset": 7816
+                    "endOffset": 12617
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/twitter-core/1.6.5/res/values-nl/values-nl.xml",
@@ -1644,11 +2195,11 @@
             },
             {
                 "to": {
-                    "startLine": 97,
+                    "startLine": 126,
                     "startColumn": 4,
-                    "startOffset": 7821,
+                    "startOffset": 12622,
                     "endColumn": 76,
-                    "endOffset": 7893
+                    "endOffset": 12694
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-nl/values-nl.xml",
@@ -1663,11 +2214,11 @@
             },
             {
                 "to": {
-                    "startLine": 98,
+                    "startLine": 127,
                     "startColumn": 4,
-                    "startOffset": 7898,
+                    "startOffset": 12699,
                     "endColumn": 55,
-                    "endOffset": 7949
+                    "endOffset": 12750
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-nl/values-nl.xml",
@@ -1682,11 +2233,11 @@
             },
             {
                 "to": {
-                    "startLine": 99,
+                    "startLine": 128,
                     "startColumn": 4,
-                    "startOffset": 7954,
+                    "startOffset": 12755,
                     "endColumn": 75,
-                    "endOffset": 8025
+                    "endOffset": 12826
                 },
                 "from": {
                     "file": "/home/crypsis/AndroidStudioProjects/Parse-Starter-Project-1.13.0/ParseStarterProject/build/intermediates/exploded-aar/com.twitter.sdk.android/tweet-ui/1.10.0/res/values-nl/values-nl.xml",

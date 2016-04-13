@@ -13,25 +13,33 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center_horizontal"
-        android:layout_centerVertical="true"
-        android:layout_centerHorizontal="true" />
-    <com.twitter.sdk.android.core.identity.TwitterLoginButton
-        android:id="@+id/twitter_login_button"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_below="@+id/login_button"
+        android:layout_alignParentBottom="true"
         android:layout_centerHorizontal="true"
-        android:layout_marginTop="46dp" />
+        android:layout_marginBottom="115dp"
+        android:visibility="invisible"/>
+
     <ImageButton
 
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:src="@drawable/tweet"
         android:id="@+id/imageButton"
-        android:layout_above="@+id/login_button"
-        android:layout_centerHorizontal="true"
-        android:layout_marginBottom="56dp"
-        android:onClick="go"/>
+        android:onClick="go"
+        style="?android:attr/borderlessButtonStyle"
+        android:layout_alignTop="@+id/imageButton1"
+        android:layout_toEndOf="@+id/imageButton1" />
+    <ImageButton
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/facebook"
+        android:id="@+id/imageButton1"
+        android:onClick="goTo"
+        style="?android:attr/borderlessButtonStyle"
+        android:maxHeight="20dp"
+        android:maxWidth="20dp"
+        android:layout_centerVertical="true"
+        android:layout_alignStart="@+id/login_button" />
 
 
 </RelativeLayout>

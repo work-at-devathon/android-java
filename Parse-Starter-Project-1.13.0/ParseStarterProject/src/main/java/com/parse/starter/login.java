@@ -3,9 +3,9 @@ package com.parse.starter;
 import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 import android.view.View;
 import android.widget.ImageButton;
-import android.widget.Toast;
 
 import com.facebook.CallbackManager;
 import com.facebook.FacebookCallback;
@@ -14,6 +14,7 @@ import com.facebook.FacebookSdk;
 import com.facebook.appevents.AppEventsLogger;
 import com.facebook.login.LoginResult;
 import com.facebook.login.widget.LoginButton;
+import com.google.android.gms.common.api.GoogleApiClient;
 import com.twitter.sdk.android.core.Callback;
 import com.twitter.sdk.android.core.Result;
 import com.twitter.sdk.android.core.TwitterException;
@@ -27,7 +28,8 @@ public class login extends AppCompatActivity {
     private TwitterLoginButton loginButton;
     ImageButton imageButton;
     TwitterAuthClient twitterAuthClient;
-
+GoogleApiClient mGoogleApiClient;
+    ImageButton imageButton1;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -37,6 +39,8 @@ public class login extends AppCompatActivity {
         setContentView(R.layout.activity_login);
         callbackManager = CallbackManager.Factory.create();
         imageButton=(ImageButton)findViewById(R.id.imageButton);
+        imageButton1=(ImageButton)findViewById(R.id.imageButton1);
+
 
 
         loginButton1 = (LoginButton) findViewById(R.id.login_button);
@@ -44,7 +48,7 @@ public class login extends AppCompatActivity {
         loginButton1.registerCallback(callbackManager, new FacebookCallback<LoginResult>() {
             @Override
             public void onSuccess(LoginResult loginResult) {
-                Intent i=new Intent(login.this,MainActivity.class);
+                Intent i = new Intent(login.this, MainActivity.class);
                 startActivity(i);
             }
 
@@ -58,7 +62,8 @@ public class login extends AppCompatActivity {
                 // App code
             }
         });
-        loginButton = (TwitterLoginButton) findViewById(R.id.twitter_login_button);
+       // loginButton = (TwitterLoginButton) findViewById(R.id.twitter_login_button);
+        twitterAuthClient=new TwitterAuthClient();
 //        loginButton.setCallback(new Callback<TwitterSession>() {
 //            @Override
 //            public void success(Result<TwitterSession> result) {
@@ -82,26 +87,33 @@ public class login extends AppCompatActivity {
     }
     public void go(View v)
     {
-        Toast.makeText(this,"twitter",Toast.LENGTH_SHORT).show();
+//        Toast.makeText(this,"twitter",Toast.LENGTH_SHORT).show();
+
         twitterAuthClient.authorize(login.this, new Callback<TwitterSession>() {
             @Override
             public void success(Result<TwitterSession> result) {
-                Intent i=new Intent(login.this,MainActivity.class);
-                startActivity(i);
+                Intent intent=new Intent(login.this,MainActivity.class);
+                startActivity(intent);
             }
 
             @Override
             public void failure(TwitterException e) {
-
+                Log.d("TwitterKit", "Login with Twitter failure", e);
             }
         });
+
+    }
+    public void goTo(View v)
+    {
+        loginButton1.performClick();
 
     }
     @Override
     protected void onActivityResult(int requestCode, int resultCode, Intent data) {
         super.onActivityResult(requestCode, resultCode, data);
         callbackManager.onActivityResult(requestCode, resultCode, data);
-loginButton.onActivityResult(requestCode,resultCode,data);
+//loginButton.onActivityResult(requestCode,resultCode,data);
+        twitterAuthClient.onActivityResult(requestCode,resultCode,data);
     }
 //    @Override
 //    protected void onActivityResult(int requestCode, int resultCode, Intent data) {
