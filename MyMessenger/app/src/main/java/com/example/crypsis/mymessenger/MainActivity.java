@@ -11,6 +11,8 @@ import android.os.RemoteException;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
+import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity {
@@ -25,7 +27,7 @@ public class MainActivity extends AppCompatActivity {
     public void startMethod(View v)
     {
         if(status) {
-            Toast.makeText(getApplicationContext(),"Service Started",Toast.LENGTH_SHORT).show();
+            Toast.makeText(getApplicationContext(),"Service already Started",Toast.LENGTH_SHORT).show();
         }
         else {
             Intent i = new Intent(this, MyService.class);
@@ -40,6 +42,8 @@ public class MainActivity extends AppCompatActivity {
             mConnection = null;
             status = false;
             Toast.makeText(getApplicationContext(), "Service stoppped", Toast.LENGTH_SHORT).show();
+            TextView t=(TextView)findViewById(R.id.textView3);
+
         }
         else {
             Toast.makeText(getApplicationContext(),"service already stopped",Toast.LENGTH_SHORT).show();
@@ -48,24 +52,28 @@ public class MainActivity extends AppCompatActivity {
     }
     public void invokeMethod(View v)
     {
+        EditText e1=(EditText)findViewById(R.id.textView);
+        String n1=e1.getText().toString();
+        EditText e2=(EditText)findViewById(R.id.textView2);
+        String n2=e2.getText().toString();
+
         Message message=Message.obtain(null,1,0,0,0);
-        String s="This is message from activity";
+       // String s="This is message from activity";
         Bundle bn=new Bundle();
-        bn.putString("my_string",s);
+        bn.putString("first",n1);
+        bn.putString("second",n2);
         message.setData(bn);
         try {
             mMessenger.send(message);
         } catch (RemoteException e) {
             e.printStackTrace();
         }
-
     }
     ServiceConnection mConnection =new ServiceConnection() {
         @Override
         public void onServiceConnected(ComponentName name, IBinder service) {
             mMessenger=new Messenger(service);
             status=true;
-
         }
 
         @Override

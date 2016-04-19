@@ -26,8 +26,15 @@ public class MyService extends Service {
                 case SAY_HELLO:
                     Toast.makeText(getBaseContext()," Hello from service",Toast.LENGTH_SHORT).show();
                     Bundle bundle=msg.getData();
-                    String message=bundle.getString("my_string");
-                    Toast.makeText(getApplicationContext(),"MEssage"+message,Toast.LENGTH_SHORT).show();
+                    String message=bundle.getString("first");
+                    String message1=bundle.getString("second");
+                    int a=Integer.parseInt(message);
+                    int b=Integer.parseInt(message1);
+                    int c=a+b;
+                    message=Integer.toString(c);
+                    Toast.makeText(getApplicationContext(),message,Toast.LENGTH_SHORT).show();
+//                    Toast.makeText(getApplicationContext(),message1,Toast.LENGTH_SHORT).show();
+
                     break;
                 default:
                     super.handleMessage(msg);
