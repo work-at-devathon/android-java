@@ -7,6 +7,6 @@ import retrofit2.Callback;
 import retrofit2.http.GET;
 
 public interface GoodsAPI {
-    @GET("/xyz/goods.json")
+    @GET("/goods.json")
     public void getGoods(Callback<List<Customer>> response);
 }

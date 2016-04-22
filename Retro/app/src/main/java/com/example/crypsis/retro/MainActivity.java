@@ -20,7 +20,7 @@ import retrofit2.Retrofit;
 public class MainActivity extends AppCompatActivity implements ListView.OnItemClickListener {
 
     //Root URL of our web service
-    public static final String ROOT_URL = "http://simplifiedcoding.16mb.com/";
+    public static final String ROOT_URL = "https://www.discovered.us/";
 
     //Strings to bind with intent will be used to send data to other activity
     public static final String KEY_SELLER_ID = "key_seller_id";
@@ -34,7 +34,7 @@ public class MainActivity extends AppCompatActivity implements ListView.OnItemCl
 
     //List of type books this list will store type Book which is our data model
     private List<Customer> customers;
-    private List<Book> books;
+//    private List<Book> books;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -56,7 +56,7 @@ public class MainActivity extends AppCompatActivity implements ListView.OnItemCl
         final ProgressDialog loading = ProgressDialog.show(this, "Fetching Data", "Please wait...", false, false);
 
         Retrofit retrofit=new Retrofit.Builder()
-                .baseUrl("https://api.xyz.com/")
+                .baseUrl(ROOT_URL)
                 .build();
         GoodsAPI goodsAPI = retrofit.create(GoodsAPI.class);
         //Creating a rest adapter
@@ -145,7 +145,7 @@ public class MainActivity extends AppCompatActivity implements ListView.OnItemCl
         Intent intent = new Intent(this, ShowGoodsDetails.class);
 
         //Getting the requested book from the list
-        Book book = books.get(position);
+//        Book book = books.get(position);
         Customer customer=customers.get(position);
 
         //Adding book details to intent
