@@ -5,11 +5,7 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.widget.TextView;
 
-
-
-public class ShowGoodsDetails extends AppCompatActivity {
-
-    //Defining views
+public class Sgd extends AppCompatActivity {
     private TextView textViewSellerId;
     private TextView textViewName;
     private TextView textViewDisplayPrice;
@@ -17,13 +13,12 @@ public class ShowGoodsDetails extends AppCompatActivity {
     private TextView textViewSellerName;
 
 
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.activity_show_book_details);
-
-
-       textViewSellerId=(TextView)findViewById(R.id.textViewSellerId);
+        setContentView(R.layout.activity_sgd);
+        textViewSellerId=(TextView)findViewById(R.id.textViewSellerId);
         textViewSellerName=(TextView)findViewById(R.id.textViewSellerName);
         textViewName=(TextView)findViewById(R.id.textViewName);
         textViewSellerUrl=(TextView)findViewById(R.id.textViewSellerUrl);
@@ -36,6 +31,9 @@ public class ShowGoodsDetails extends AppCompatActivity {
         textViewSellerName.setText(intent.getStringExtra(MainActivity.KEY_SELLER_NAME));
         textViewName.setText(intent.getStringExtra(MainActivity.KEY_NAME));
         textViewSellerUrl.setText(intent.getStringExtra(MainActivity.KEY_SELLER_URL));
-        textViewDisplayPrice.setText(intent.getStringExtra(MainActivity.KEY_DISPLAY_PRICE));
+        textViewDisplayPrice.setText(intent.getStringExtra(MainActivity.KEY_DISPLAY_PRICE));;
+
+
     }
+
 }

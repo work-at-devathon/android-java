@@ -47,5 +47,9 @@ public class Customer {
         this.display_price = price;
     }
 
-
+    @Override
+public String toString()
+{
+    return this.name;
+}
 }
