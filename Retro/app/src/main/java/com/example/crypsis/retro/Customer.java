@@ -2,20 +2,20 @@ package com.example.crypsis.retro;
 
 
 public class Customer {
-    private int seller_id;
-    private String name;
-    private String seller_name;
-    private String seller_url;
-    private String display_price;
+    protected String seller_image;
+    protected String name;
+    protected String seller_name;
+    protected String image_url;
+    protected String display_price;
 
 
     //Getters and setters
-    public int getSellerId() {
-        return seller_id;
+    public String getSellerImage() {
+        return seller_image;
     }
 
-    public void setSellerId(int sellerId) {
-        this.seller_id = sellerId;
+    public void setSellerImage(String sellerImage) {
+        this.seller_image = sellerImage;
     }
 
     public String getName() {
@@ -32,11 +32,12 @@ public class Customer {
     public void setSellerName(String sellerName) {
         this.seller_name=sellerName;
     }
-    public String getSellerUrl() {
-        return seller_url;
+    public String getImageUrl() {
+        return image_url;
+
     }
-    public void setSellerUrl(String sellerUrl) {
-        this.seller_url=sellerUrl;
+    public void setImageUrl(String imageUrl) {
+        this.image_url=imageUrl;
     }
 
     public String getPrice() {

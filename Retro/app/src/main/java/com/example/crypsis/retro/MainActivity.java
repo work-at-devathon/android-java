@@ -1,14 +1,14 @@
 package com.example.crypsis.retro;
 
 import android.app.ProgressDialog;
-import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
-import android.view.View;
-import android.widget.AdapterView;
-import android.widget.ArrayAdapter;
+import android.support.v7.widget.LinearLayoutManager;
+import android.support.v7.widget.RecyclerView;
+import android.util.Log;
 import android.widget.ListView;
 
+import java.util.ArrayList;
 import java.util.List;
 
 import retrofit2.Call;
@@ -17,28 +17,29 @@ import retrofit2.Response;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
 
-public class MainActivity extends AppCompatActivity implements ListView.OnItemClickListener {
+public class MainActivity extends AppCompatActivity {
 
 
     public static final String ROOT_URL = "https://www.discovered.us/";
-    public static final String KEY_SELLER_ID = "key_seller_id";
+    public static final String KEY_SELLER_IMAGE = "key_seller_id";
     public static final String KEY_SELLER_NAME = "key_seller_name";
     public static final String KEY_DISPLAY_PRICE = "key_display_price";
     public static final String KEY_NAME = "key_name";
-    public static final String KEY_SELLER_URL = "key_seller_url";
+    public static final String KEY_IMAGE_URL = "key_seller_url";
     private ListView listView;
     public Call<Example> customers;
     public List<Customer> res;
+    List<Customer> cinfo = new ArrayList<>();
+    MyRecyclerViewAdapter myRecyclerViewAdapter;
+    RecyclerView recyclerView;
 
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-
-        listView = (ListView) findViewById(R.id.listViewBooks);
+        recyclerView = (RecyclerView) findViewById(R.id.my_recycler_view);
         getBooks();
-        listView.setOnItemClickListener(this);
     }
 
     private void getBooks() {
@@ -55,7 +56,7 @@ public class MainActivity extends AppCompatActivity implements ListView.OnItemCl
             public void onResponse(Call<Example> call, Response<Example> response) {
 
                 loading.dismiss();
-                res=response.body().getProduct();
+                res = response.body().getProduct();
                 showList();
 
             }
@@ -69,27 +70,19 @@ public class MainActivity extends AppCompatActivity implements ListView.OnItemCl
 
     private void showList() {
 
-        String[] items = new String[res.size()];
-
         for (int i = 0; i < res.size(); i++) {
-            items[i] = res.get(i).getName();
+            Customer c = new Customer();
+            c.name = res.get(i).getName();
+            c.seller_name = res.get(i).getSellerName();
+            c.image_url = res.get(i).getImageUrl();
+            c.display_price = res.get(i).getPrice();
+            c.seller_image = res.get(i).getSellerImage();
+            cinfo.add(c);
         }
+//        myRecyclerViewAdapter.notifyDataSetChanged();
+        myRecyclerViewAdapter = new MyRecyclerViewAdapter(cinfo);
+        recyclerView.setAdapter(myRecyclerViewAdapter);
+        recyclerView.setLayoutManager(new LinearLayoutManager(this));
 
-        ArrayAdapter adapter = new ArrayAdapter<String>(this, R.layout.simple_list, items);
-        listView.setAdapter(adapter);
-    }
-
-
-    @Override
-    public void onItemClick(AdapterView<?> parent, View view, int position, long id) {
-
-        Intent intent = new Intent(this, Sgd.class);
-        Customer customer = res.get(position);
-        intent.putExtra(KEY_SELLER_ID, customer.getSellerId());
-        intent.putExtra(KEY_SELLER_NAME, customer.getSellerName());
-        intent.putExtra(KEY_NAME, customer.getName());
-        intent.putExtra(KEY_SELLER_URL, customer.getSellerUrl());
-        intent.putExtra(KEY_DISPLAY_PRICE, customer.getPrice());
-        startActivity(intent);
     }
 }
