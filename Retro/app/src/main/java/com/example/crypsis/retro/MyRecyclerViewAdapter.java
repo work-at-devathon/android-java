@@ -28,6 +28,7 @@ public class MyRecyclerViewAdapter extends RecyclerView.Adapter<MyRecyclerViewAd
         View itemView = LayoutInflater.from(parent.getContext()).inflate(R.layout.mycard, parent, false);
         context = parent.getContext();
         return new CustomerViewHolder(itemView);
+
     }
 
     @Override
