@@ -48,7 +48,7 @@
 
                 </View>
 
-                <com.pkmmte.view.CircularImageView
+                <com.mikhaellopez.circularimageview.CircularImageView
                     android:layout_width="100dp"
                     android:layout_height="100dp"
                     android:id="@+id/sellerimage"
