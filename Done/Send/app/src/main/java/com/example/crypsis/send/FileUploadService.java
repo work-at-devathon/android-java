@@ -6,6 +6,6 @@ import retrofit2.http.Body;
 import retrofit2.http.POST;
 
 public interface FileUploadService {
-    @POST("/")
+    @POST("/test")
     Call<RegisterUser> createTask(@Body RegisterUser registerUser);
 }

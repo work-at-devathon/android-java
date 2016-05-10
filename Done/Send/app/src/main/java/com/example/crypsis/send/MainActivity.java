@@ -14,8 +14,8 @@ import retrofit2.converter.gson.GsonConverterFactory;
 
 public class MainActivity extends AppCompatActivity {
 EditText e1,e2,e3,e4,e5;
-    String fullname,email,countrycode,password;
-    int phone;
+    String name,email,countryCode,password;
+    int phoneNumber;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -28,7 +28,7 @@ EditText e1,e2,e3,e4,e5;
 
 
         Retrofit retrofit = new Retrofit.Builder()
-                .baseUrl("http://192.168.0.135:8081/")
+                .baseUrl("http://192.168.0.125:8081/")
                 .addConverterFactory(GsonConverterFactory.create())
                 .build();
         e1=(EditText)findViewById(R.id.editText);
@@ -36,13 +36,13 @@ EditText e1,e2,e3,e4,e5;
         e3=(EditText)findViewById(R.id.editText3);
         e4=(EditText)findViewById(R.id.editText4);
         e5=(EditText)findViewById(R.id.editText5);
-        fullname=e1.getText().toString();
+        name=e1.getText().toString();
         email=e2.getText().toString();
-        countrycode=e3.getText().toString();
-        phone=Integer.parseInt(e4.getText().toString());
+        countryCode=e3.getText().toString();
+        phoneNumber=Integer.parseInt(e4.getText().toString());
         password=e5.getText().toString();
 
-        RegisterUser registerUser=new RegisterUser(fullname,email,countrycode,phone,password);
+        RegisterUser registerUser=new RegisterUser(name,email,countryCode,phoneNumber,password);
         FileUploadService fileUploadService=retrofit.create(FileUploadService.class);
 
                 Call<RegisterUser> call = fileUploadService.createTask(registerUser);
