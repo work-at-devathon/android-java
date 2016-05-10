@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="50dp"
+    android:paddingRight="50dp"
+    android:background="#33c5f3"
+    tools:context="com.example.crypsis.send.MainActivity">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Try Sonar free for 14 days"
+        android:textColor="#ffffff"
+        android:textAppearance="?android:textAppearanceLarge"
+        android:background="#33c5f3"
+        android:id="@+id/textView"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="65dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="15dp"
+        android:hint="Full Name"
+        android:inputType="textEmailAddress"
+        android:ems="17"
+        android:id="@+id/editText"
+        android:layout_below="@+id/textView"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#24b4e9"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:paddingLeft="10dp"
+        android:textColor="#c6c8ce" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:layout_marginTop="15dp"
+        android:ems="17"
+        android:id="@+id/editText2"
+        android:hint="Email"
+        android:layout_below="@+id/editText"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:background="#24b4e9"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:textColor="#c6c8c8" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:layout_marginTop="15dp"
+        android:ems="3"
+        android:id="@+id/editText3"
+        android:layout_below="@+id/editText2"
+        android:hint="+1"
+        android:paddingLeft="10dp"
+        android:background="#24b4e9"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:textColor="#c6c8c8" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="phone"
+        android:layout_marginTop="15dp"
+        android:ems="10"
+        android:id="@+id/editText4"
+        android:hint="415-555-1234"
+        android:layout_alignBottom="@+id/editText3"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:background="#24b4e9"
+        android:textColor="#c6c8c8" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textPassword"
+        android:ems="17"
+        android:layout_marginTop="15dp"
+        android:hint="Password"
+        android:id="@+id/editText5"
+        android:background="#24b4e9"
+        android:paddingLeft="10dp"
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:layout_below="@+id/editText3"
+        android:layout_alignLeft="@+id/editText3"
+        android:layout_alignStart="@+id/editText3"
+        android:textColor="#c6c8c8" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="Password must be at least 8 characters"
+        android:id="@+id/textView2"
+        android:background="#33c5f3"
+        android:textColor="#ffffff"
+        android:layout_below="@+id/editText5"
+        android:layout_alignRight="@+id/textView"
+        android:layout_alignEnd="@+id/textView" />
+
+    <CheckBox
+        android:layout_width="30dp"
+        android:layout_height="wrap_content"
+        android:text="I agree to the terms"
+        android:id="@+id/checkBox"
+        android:textColor="#ffffff"
+        android:checked="false"
+        android:layout_alignBottom="@+id/button"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_toStartOf="@+id/button"
+        android:layout_alignTop="@+id/button"
+        android:layout_toLeftOf="@+id/button" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Start Free Trial"
+        android:id="@+id/button"
+
+        android:textAllCaps="false"
+        android:background="#ffe857"
+        android:textColor="#636466"
+        android:textStyle="bold"
+        android:paddingLeft="30dp"
+        android:paddingRight="30dp"
+        android:layout_below="@+id/textView2"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginTop="10dp"
+        android:paddingTop="2dp"
+        android:paddingBottom="2dp"
+        android:onClick="send"/>
+</RelativeLayout>
