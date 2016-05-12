@@ -57,11 +57,13 @@ public class NavigationDraw extends AppCompatActivity {
                switch (position)
                {
                    case 0:  Dialog d=new Dialog(NavigationDraw.this);
-                       d.setContentView(R.layout.dialog);
+                       d.setContentView(R.layout.invite_team_members);
                        d.show();
                        break;
-                   case 1:
-                       Toast.makeText(NavigationDraw.this,"hello1",Toast.LENGTH_SHORT).show();
+                   case 1: Dialog d1=new Dialog(NavigationDraw.this);
+                       d1.setContentView(R.layout.customers_search);
+                       d1.show();
+
                        break;
                    default:
                        Toast.makeText(NavigationDraw.this,"hello2",Toast.LENGTH_SHORT).show();

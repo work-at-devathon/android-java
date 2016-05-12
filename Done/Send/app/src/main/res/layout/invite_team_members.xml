@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="450dp"
+    android:layout_height="wrap_content">
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Team Members"
+        android:id="@+id/textView7"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginLeft="10dp"
+        android:layout_marginStart="36dp"
+        android:layout_marginTop="15dp"
+        />
+  <View
+      android:layout_marginTop="10dp"
+      android:layout_below="@id/textView7"
+      android:layout_width="match_parent"
+      android:layout_height="2dp"
+      android:background="#00b4ff"
+      android:id="@+id/textView9">
+
+  </View>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Invite"
+        android:id="@+id/textView8"
+        android:layout_below="@+id/textView9"
+        android:layout_alignLeft="@+id/textView7"
+        android:layout_alignStart="@+id/textView7" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:inputType="textEmailAddress"
+        android:ems="10"
+        android:id="@+id/editText8"
+        android:width="300dp"
+        android:hint="Enter Colleague&apos;s Email Address"
+        android:layout_below="@+id/textView8"
+        android:layout_alignLeft="@+id/textView8"
+        android:layout_alignStart="@+id/textView8" />
+
+    <Button
+        android:layout_width="130dp"
+        android:layout_height="30dp"
+        android:text="Invite"
+        android:id="@+id/button3"
+        android:background="#00b4ff"
+        android:textColor="#ffffff"
+        android:width="100dp"
+        android:layout_below="@+id/textView8"
+        android:layout_toRightOf="@+id/editText8"
+        android:layout_toEndOf="@+id/editText8"
+        android:layout_marginBottom="10dp"
+        android:paddingRight="10dp" />
+</RelativeLayout>
