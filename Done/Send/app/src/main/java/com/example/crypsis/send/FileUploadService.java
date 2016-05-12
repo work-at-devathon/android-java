@@ -8,4 +8,7 @@ import retrofit2.http.POST;
 public interface FileUploadService {
     @POST("/test")
     Call<RegisterUser> createTask(@Body RegisterUser registerUser);
+    @POST("/INVITE")
+    Call<InviteTeamMember> invite(@Body InviteTeamMember inviteTeamMember);
+
 }
