@@ -23,7 +23,7 @@
         android:layout_height="wrap_content"
         android:inputType="phone"
         android:ems="10"
-        android:id="@+id/editText"
+        android:id="@+id/phone"
         android:textColor="#a9a9a9"
         android:background="@drawable/box"
         android:layout_gravity="center_horizontal"
@@ -55,7 +55,8 @@
 
             android:textColor="#ffffff"
             android:layout_gravity="center_horizontal"
-            android:layout_weight="0.30" />
+            android:layout_weight="0.30"
+            android:onClick="addCustomerNumber"/>
     </TableRow>
 
 

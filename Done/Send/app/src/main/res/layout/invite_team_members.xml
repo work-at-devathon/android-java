@@ -39,7 +39,7 @@
         android:layout_height="wrap_content"
         android:inputType="textEmailAddress"
         android:ems="10"
-        android:id="@+id/editText8"
+        android:id="@+id/invitemember"
         android:width="300dp"
         android:hint="Enter Colleague&apos;s Email Address"
         android:layout_below="@+id/textView8"
@@ -55,8 +55,9 @@
         android:textColor="#ffffff"
         android:width="100dp"
         android:layout_below="@+id/textView8"
-        android:layout_toRightOf="@+id/editText8"
-        android:layout_toEndOf="@+id/editText8"
+        android:layout_toRightOf="@+id/invitemember"
+        android:layout_toEndOf="@+id/invitemember"
         android:layout_marginBottom="10dp"
-        android:paddingRight="10dp" />
+        android:paddingRight="10dp"
+        android:onClick="invite"/>
 </RelativeLayout>

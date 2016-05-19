@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="500dp"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="New Customer"
+        android:textStyle="bold"
+        android:id="@+id/newCustomer"
+        android:textAllCaps="true"
+        android:textColor="#4e4e4e"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="false"
+        android:textSize="12dp" />
+    <View
+        android:layout_marginTop="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="1dp"
+        android:background="#00b4ff"
+        android:layout_below="@id/newCustomer"
+        android:id="@+id/view2">
+    </View>
+
+    <TextView
+        android:layout_marginTop="15dp"
+        android:layout_marginLeft="15dp"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="First name"
+        android:textStyle="bold"
+        android:textAllCaps="true"
+        android:textColor="#4e4e4e"
+        android:id="@+id/firstName"
+        android:layout_below="@+id/view2"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:textSize="12dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Last name"
+        android:textStyle="bold"
+        android:textColor="#4e4e4e"
+        android:id="@+id/lastName"
+        android:textAllCaps="true"
+        android:textSize="12dp"
+        android:layout_above="@+id/editTextlastName"
+        android:layout_toRightOf="@+id/editTextfirstName"
+        android:layout_toEndOf="@+id/editTextfirstName"
+        android:layout_marginLeft="21dp"
+        android:layout_marginStart="21dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextfirstName"
+        android:ems="7"
+        android:background="@drawable/box"
+        android:layout_below="@+id/firstName"
+        android:layout_alignLeft="@+id/firstName"
+        android:layout_alignStart="@+id/firstName" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextlastName"
+        android:background="@drawable/box"
+        android:layout_alignBottom="@+id/editTextfirstName"
+        android:layout_alignLeft="@+id/lastName"
+        android:layout_alignStart="@+id/lastName"
+        android:ems="7"/>
+
+    <TextView
+        android:layout_marginTop="10dp"
+        android:textAllCaps="true"
+        android:textStyle="bold"
+        android:textColor="#4e4e4e"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Phone Number"
+        android:id="@+id/phoneNumber"
+        android:layout_below="@+id/editTextfirstName"
+        android:layout_alignLeft="@+id/editTextfirstName"
+        android:layout_alignStart="@+id/editTextfirstName"
+        android:textSize="12dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textStyle="bold"
+        android:text="email" android:textColor="#4e4e4e"
+        android:id="@+id/email"
+        android:textAllCaps="true"
+        android:layout_alignTop="@+id/phoneNumber"
+        android:layout_alignLeft="@+id/editTextlastName"
+        android:layout_alignStart="@+id/editTextlastName"
+        android:textSize="12dp" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:background="@drawable/box"
+        android:id="@+id/editTextphoneNumber"
+        android:layout_below="@+id/phoneNumber"
+        android:ems="7"
+        android:layout_alignLeft="@+id/phoneNumber"
+        android:layout_alignStart="@+id/phoneNumber" />
+
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/editTextemail"
+        android:ems="7"
+        android:background="@drawable/box"
+        android:layout_alignTop="@+id/editTextphoneNumber"
+        android:layout_alignLeft="@+id/email"
+        android:layout_alignStart="@+id/email" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="picture"
+        android:textStyle="bold"
+        android:id="@+id/picture"
+        android:textAllCaps="true"
+        android:textColor="#4e4e4e"
+        android:textSize="12dp"
+        android:layout_alignTop="@+id/subscribed"
+        android:layout_alignLeft="@+id/editTextphoneNumber"
+        android:layout_alignStart="@+id/editTextphoneNumber" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="subscribed"
+        android:textStyle="bold"
+        android:id="@+id/subscribed"
+        android:layout_marginTop="10dp"
+        android:textAllCaps="true"
+        android:textColor="#4e4e4e"
+        android:layout_below="@+id/editTextemail"
+        android:layout_alignLeft="@+id/editTextemail"
+        android:layout_alignStart="@+id/editTextemail"
+        android:textSize="12dp" />
+
+    <com.mikhaellopez.circularimageview.CircularImageView
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:id="@+id/imageView2"
+        android:src="@drawable/missing"
+        android:layout_below="@+id/picture"
+        android:layout_alignLeft="@+id/picture"
+        android:layout_alignStart="@+id/picture" />
+
+    <Switch
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/switch1"
+        android:checked="false"
+        android:textOn="ON"
+        android:textOff="OFF"
+        android:layout_alignTop="@+id/imageView2"
+        android:layout_alignLeft="@+id/subscribed"
+        android:layout_alignStart="@+id/subscribed" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Upload"
+        android:linksClickable="true"
+        android:autoLink="none"
+        android:textStyle="bold"
+        android:id="@+id/textView13"
+        android:textSize="11dp"
+        android:layout_below="@+id/imageView2"
+        android:layout_alignLeft="@+id/picture"
+        android:layout_alignStart="@+id/picture"
+        android:layout_marginLeft="6dp" />
+    <TableRow
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView13"
+        android:paddingTop="20dp">
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cancel"
+            android:id="@+id/button"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textColor="#4e4e4e"
+            android:background="#ffffff"
+            android:paddingLeft="70dp"
+            android:textSize="12dp" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Save "
+            android:id="@+id/button2"
+            android:background="#00b4ff"
+
+            android:textColor="#ffffff"
+            android:layout_gravity="center_horizontal"
+            android:layout_weight="0.30"
+            android:onClick="addCustomerNumber"
+            android:textSize="12dp" />
+    </TableRow>
+
+
+</RelativeLayout>

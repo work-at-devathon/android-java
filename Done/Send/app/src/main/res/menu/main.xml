@@ -8,7 +8,7 @@
         app:showAsAction="never"
         />
     <item android:icon="@drawable/add"
-        android:id="@+id/add"
+        android:id="@+id/addPhone"
         android:title="@string/action_settings"
         app:showAsAction="always"
         />
